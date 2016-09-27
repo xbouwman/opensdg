@@ -1,7 +1,7 @@
 # OpenSDG
 Architecture for publishing [UN Sustainable Development Goals](http://www.un.org/sustainabledevelopment/sustainable-development-goals/) (SDG) [indicators](http://unstats.un.org/sdgs/indicators/database/) as Linked Open Data with the OpenCube Toolkit.
 
-Coursework for *Architecture Design* at Delft Technical University. Not actively maintained.
+Coursework for *Architecture Design* at Delft Technical University. Authors: group 4. Not actively maintained.
 
 ## Mission and scope
 Track progress on ending world hunger with linked open data and a visualization dashboard
