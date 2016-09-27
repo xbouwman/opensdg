@@ -1,5 +1,5 @@
 # OpenSDG
-Architecture for 4publishing [UN Sustainable Development Goals](http://www.un.org/sustainabledevelopment/sustainable-development-goals/) (SDG) [indicators](http://unstats.un.org/sdgs/indicators/database/) as Linked Open Data with the OpenCube Toolkit.
+Architecture for publishing [UN Sustainable Development Goals](http://www.un.org/sustainabledevelopment/sustainable-development-goals/) (SDG) [indicators](http://unstats.un.org/sdgs/indicators/database/) as Linked Open Data with the OpenCube Toolkit.
 
 Coursework for *Architecture Design* at Delft Technical University. Not actively maintained.
 
