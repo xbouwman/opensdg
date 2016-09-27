@@ -1,7 +1,7 @@
 # OpenSDG
 Architecture for publishing [UN Sustainable Development Goals](http://www.un.org/sustainabledevelopment/sustainable-development-goals/) (SDG) [indicators](http://unstats.un.org/sdgs/indicators/database/) as Linked Open Data with the OpenCube Toolkit.
 
-Coursework for *Architecture Design* at Delft Technical University. Not actively maintained.
+Coursework for *Architecture Design* at Delft Technical University. Authors: group 4. Not actively maintained.
 
 ## Mission and scope
 Track progress on ending world hunger with linked open data and a visualization dashboard
@@ -13,7 +13,7 @@ When deciding on national policies, a political representative wants a fact-base
 Source | Data quality | Open data | Linked data
 --- | --- | --- | ---
 [World Food Programme](http://vam.wfp.org/sites/mvam_monitoring/) | TBD | Report, no | No
-[Food and Agriculture Organization](http://faostat3.fao.org/download/D/FS/E) | TDB | Database, yes | No
+[Food and Agriculture Organization](http://faostat3.fao.org/download/D/FS/E) | TBD | Database, yes | No
 [World Bank](http://www.worldbank.org/) | TBD | Database, yes | No
 
 
