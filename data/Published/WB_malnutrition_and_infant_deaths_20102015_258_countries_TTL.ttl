@@ -1,0 +1,5171 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix mid: <http://example.com/mid#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+
+
+<http://127.0.0.1:3333/0> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Afghanistan" ;
+	mid:Country_Code "AFG" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/1> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Albania" ;
+	mid:Country_Code "ALB" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/2> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Algeria" ;
+	mid:Country_Code "DZA" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 "3"^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/3> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "American Samoa" ;
+	mid:Country_Code "ASM" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/4> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Andorra" ;
+	mid:Country_Code "ADO" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/5> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Angola" ;
+	mid:Country_Code "AGO" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/6> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Antigua and Barbuda" ;
+	mid:Country_Code "ATG" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/7> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Arab World" ;
+	mid:Country_Code "ARB" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/8> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Argentina" ;
+	mid:Country_Code "ARG" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/9> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Armenia" ;
+	mid:Country_Code "ARM" ;
+	mid:YR2010 "5.300000191"^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/10> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Aruba" ;
+	mid:Country_Code "ABW" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/11> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Australia" ;
+	mid:Country_Code "AUS" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/12> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Austria" ;
+	mid:Country_Code "AUT" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/13> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Azerbaijan" ;
+	mid:Country_Code "AZE" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 "4.900000095"^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/14> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Bahamas, The" ;
+	mid:Country_Code "BHS" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/15> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Bahrain" ;
+	mid:Country_Code "BHR" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/16> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Bangladesh" ;
+	mid:Country_Code "BGD" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 "36.79999924"^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 "35.09999847"^^<xsd:decimal> ;
+	mid:YR2014 "32.59999847"^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/17> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Barbados" ;
+	mid:Country_Code "BRB" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 "3.5"^^<xsd:decimal> ;
+	mid:YR2013 "3.5"^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/18> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Belarus" ;
+	mid:Country_Code "BLR" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/19> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Belgium" ;
+	mid:Country_Code "BEL" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/20> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Belize" ;
+	mid:Country_Code "BLZ" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 "6.199999809"^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/21> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Benin" ;
+	mid:Country_Code "BEN" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 "18"^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/22> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Bermuda" ;
+	mid:Country_Code "BMU" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/23> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Bhutan" ;
+	mid:Country_Code "BTN" ;
+	mid:YR2010 "12.80000019"^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/24> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Bolivia" ;
+	mid:Country_Code "BOL" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/25> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Bosnia and Herzegovina" ;
+	mid:Country_Code "BIH" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 "1.5"^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/26> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Botswana" ;
+	mid:Country_Code "BWA" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/27> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Brazil" ;
+	mid:Country_Code "BRA" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/28> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "British Virgin Islands" ;
+	mid:Country_Code "VGB" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/29> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Brunei Darussalam" ;
+	mid:Country_Code "BRN" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/30> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Bulgaria" ;
+	mid:Country_Code "BGR" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/31> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Burkina Faso" ;
+	mid:Country_Code "BFA" ;
+	mid:YR2010 "26.20000076"^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/32> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Burundi" ;
+	mid:Country_Code "BDI" ;
+	mid:YR2010 "29.10000038"^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/33> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Cabo Verde" ;
+	mid:Country_Code "CPV" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/34> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Cambodia" ;
+	mid:Country_Code "KHM" ;
+	mid:YR2010 "29"^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 "23.89999962"^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/35> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Cameroon" ;
+	mid:Country_Code "CMR" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 "15.10000038"^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/36> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Canada" ;
+	mid:Country_Code "CAN" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/37> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Caribbean small states" ;
+	mid:Country_Code "CSS" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/38> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Cayman Islands" ;
+	mid:Country_Code "CYM" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/39> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Central African Republic" ;
+	mid:Country_Code "CAF" ;
+	mid:YR2010 "23.5"^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/40> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Central Europe and the Baltics" ;
+	mid:Country_Code "CEB" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/41> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Chad" ;
+	mid:Country_Code "TCD" ;
+	mid:YR2010 "30.29999924"^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/42> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Channel Islands" ;
+	mid:Country_Code "CHI" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/43> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Chile" ;
+	mid:Country_Code "CHL" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 "0.5"^^<xsd:decimal> ;
+	mid:YR2014 "0.5"^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/44> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "China" ;
+	mid:Country_Code "CHN" ;
+	mid:YR2010 "3.400000095"^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/45> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Colombia" ;
+	mid:Country_Code "COL" ;
+	mid:YR2010 "3.400000095"^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/46> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Comoros" ;
+	mid:Country_Code "COM" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 "16.89999962"^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/47> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Congo, Dem. Rep." ;
+	mid:Country_Code "ZAR" ;
+	mid:YR2010 "24.20000076"^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 "23.39999962"^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/48> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Congo, Rep." ;
+	mid:Country_Code "COG" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 "11.80000019"^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/49> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Costa Rica" ;
+	mid:Country_Code "CRI" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/50> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Cote d'Ivoire" ;
+	mid:Country_Code "CIV" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 "15.69999981"^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/51> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Croatia" ;
+	mid:Country_Code "HRV" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/52> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Cuba" ;
+	mid:Country_Code "CUB" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/53> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Curacao" ;
+	mid:Country_Code "CUW" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/54> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Cyprus" ;
+	mid:Country_Code "CYP" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/55> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Czech Republic" ;
+	mid:Country_Code "CZE" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/56> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Denmark" ;
+	mid:Country_Code "DNK" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/57> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Djibouti" ;
+	mid:Country_Code "DJI" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 "29.79999924"^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/58> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Dominica" ;
+	mid:Country_Code "DMA" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/59> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Dominican Republic" ;
+	mid:Country_Code "DOM" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 "4"^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/60> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Early-demographic dividend" ;
+	mid:Country_Code "EAR" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/61> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "East Asia & Pacific" ;
+	mid:Country_Code "EAS" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/62> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "East Asia & Pacific (excluding high income)" ;
+	mid:Country_Code "EAP" ;
+	mid:YR2010 "6.388102"^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 "4.994418"^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/63> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "East Asia & Pacific (IDA & IBRD countries)" ;
+	mid:Country_Code "TEA" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/64> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Ecuador" ;
+	mid:Country_Code "ECU" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 "6.400000095"^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/65> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Egypt, Arab Rep." ;
+	mid:Country_Code "EGY" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 "7"^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/66> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "El Salvador" ;
+	mid:Country_Code "SLV" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/67> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Equatorial Guinea" ;
+	mid:Country_Code "GNQ" ;
+	mid:YR2010 "5.599999905"^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/68> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Eritrea" ;
+	mid:Country_Code "ERI" ;
+	mid:YR2010 "38.79999924"^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/69> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Estonia" ;
+	mid:Country_Code "EST" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/70> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Ethiopia" ;
+	mid:Country_Code "ETH" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 "29.20000076"^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 "25.20000076"^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/71> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Euro area" ;
+	mid:Country_Code "EMU" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/72> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Europe & Central Asia" ;
+	mid:Country_Code "ECS" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/73> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Europe & Central Asia (excluding high income)" ;
+	mid:Country_Code "ECA" ;
+	mid:YR2010 "2.326539"^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 "1.674524"^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/74> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Europe & Central Asia (IDA & IBRD countries)" ;
+	mid:Country_Code "TEC" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/75> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "European Union" ;
+	mid:Country_Code "EUU" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/76> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Faroe Islands" ;
+	mid:Country_Code "FRO" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/77> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Fiji" ;
+	mid:Country_Code "FJI" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/78> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Finland" ;
+	mid:Country_Code "FIN" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/79> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Fragile and conflict affected situations" ;
+	mid:Country_Code "FCS" ;
+	mid:YR2010 "21.46224"^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 "20.651"^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/80> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "France" ;
+	mid:Country_Code "FRA" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/81> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "French Polynesia" ;
+	mid:Country_Code "PYF" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/82> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Gabon" ;
+	mid:Country_Code "GAB" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 "6.5"^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/83> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Gambia, The" ;
+	mid:Country_Code "GMB" ;
+	mid:YR2010 "17.39999962"^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 "16.39999962"^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/84> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Georgia" ;
+	mid:Country_Code "GEO" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/85> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Germany" ;
+	mid:Country_Code "DEU" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/86> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Ghana" ;
+	mid:Country_Code "GHA" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 "13.39999962"^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 "11"^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/87> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Gibraltar" ;
+	mid:Country_Code "GIB" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/88> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Greece" ;
+	mid:Country_Code "GRC" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/89> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Greenland" ;
+	mid:Country_Code "GRL" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/90> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Grenada" ;
+	mid:Country_Code "GRD" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/91> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Guam" ;
+	mid:Country_Code "GUM" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/92> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Guatemala" ;
+	mid:Country_Code "GTM" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/93> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Guinea" ;
+	mid:Country_Code "GIN" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 "16.29999924"^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/94> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Guinea-Bissau" ;
+	mid:Country_Code "GNB" ;
+	mid:YR2010 "18.10000038"^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 "17"^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/95> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Guyana" ;
+	mid:Country_Code "GUY" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 "8.5"^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/96> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Haiti" ;
+	mid:Country_Code "HTI" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 "11.60000038"^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/97> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Heavily indebted poor countries (HIPC)" ;
+	mid:Country_Code "HPC" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/98> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "High income" ;
+	mid:Country_Code "HIC" ;
+	mid:YR2010 "1.18373817"^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 "1.07819762"^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/99> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Honduras" ;
+	mid:Country_Code "HND" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 "7.099999905"^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/100> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Hong Kong SAR, China" ;
+	mid:Country_Code "HKG" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/101> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Hungary" ;
+	mid:Country_Code "HUN" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/102> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Iceland" ;
+	mid:Country_Code "ISL" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/103> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "India" ;
+	mid:Country_Code "IND" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/104> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Indonesia" ;
+	mid:Country_Code "IDN" ;
+	mid:YR2010 "18.60000038"^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 "19.89999962"^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/105> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Iran, Islamic Rep." ;
+	mid:Country_Code "IRN" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/106> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Iraq" ;
+	mid:Country_Code "IRQ" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 "8.5"^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/107> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Ireland" ;
+	mid:Country_Code "IRL" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/108> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Isle of Man" ;
+	mid:Country_Code "IMY" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/109> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Israel" ;
+	mid:Country_Code "ISR" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/110> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Italy" ;
+	mid:Country_Code "ITA" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/111> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Jamaica" ;
+	mid:Country_Code "JAM" ;
+	mid:YR2010 "3.200000048"^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 "2.5"^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/112> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Japan" ;
+	mid:Country_Code "JPN" ;
+	mid:YR2010 "3.400000095"^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/113> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Jordan" ;
+	mid:Country_Code "JOR" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 "3"^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/114> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Kazakhstan" ;
+	mid:Country_Code "KAZ" ;
+	mid:YR2010 "3.700000048"^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/115> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Kenya" ;
+	mid:Country_Code "KEN" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 "11"^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/116> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Kiribati" ;
+	mid:Country_Code "KIR" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/117> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Korea, Dem. People?s Rep." ;
+	mid:Country_Code "PRK" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 "15.19999981"^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/118> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Korea, Rep." ;
+	mid:Country_Code "KOR" ;
+	mid:YR2010 "0.600000024"^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/119> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Kosovo" ;
+	mid:Country_Code "KSV" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/120> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Kuwait" ;
+	mid:Country_Code "KWT" ;
+	mid:YR2010 "1.700000048"^^<xsd:decimal> ;
+	mid:YR2011 "2.099999905"^^<xsd:decimal> ;
+	mid:YR2012 "2.200000048"^^<xsd:decimal> ;
+	mid:YR2013 "3.099999905"^^<xsd:decimal> ;
+	mid:YR2014 "3"^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/121> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Kyrgyz Republic" ;
+	mid:Country_Code "KGZ" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 "3.700000048"^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 "2.799999952"^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/122> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Lao PDR" ;
+	mid:Country_Code "LAO" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 "26.5"^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/123> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Late-demographic dividend" ;
+	mid:Country_Code "LTE" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/124> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Latin America & Caribbean" ;
+	mid:Country_Code "LCN" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/125> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Latin America & Caribbean (excluding high income)" ;
+	mid:Country_Code "LAC" ;
+	mid:YR2010 "3.26021"^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 "2.684888"^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/126> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Latin America & the Caribbean (IDA & IBRD countries)" ;
+	mid:Country_Code "TLA" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/127> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Latvia" ;
+	mid:Country_Code "LVA" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/128> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Least developed countries: UN classification" ;
+	mid:Country_Code "LDC" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/129> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Lebanon" ;
+	mid:Country_Code "LBN" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/130> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Lesotho" ;
+	mid:Country_Code "LSO" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 "10.30000019"^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/131> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Liberia" ;
+	mid:Country_Code "LBR" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 "15.30000019"^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/132> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Libya" ;
+	mid:Country_Code "LBY" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/133> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Liechtenstein" ;
+	mid:Country_Code "LIE" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/134> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Lithuania" ;
+	mid:Country_Code "LTU" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/135> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Low & middle income" ;
+	mid:Country_Code "LMY" ;
+	mid:YR2010 "18.1974095"^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 "16.20356835"^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/136> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Low income" ;
+	mid:Country_Code "LIC" ;
+	mid:YR2010 "22.47309254"^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 "20.4374414"^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/137> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Lower middle income" ;
+	mid:Country_Code "LMC" ;
+	mid:YR2010 "24.92669903"^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 "22.364105"^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/138> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Luxembourg" ;
+	mid:Country_Code "LUX" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/139> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Macao SAR, China" ;
+	mid:Country_Code "MAC" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/140> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Macedonia, FYR" ;
+	mid:Country_Code "MKD" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 "1.299999952"^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/141> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Madagascar" ;
+	mid:Country_Code "MDG" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/142> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Malawi" ;
+	mid:Country_Code "MWI" ;
+	mid:YR2010 "13.80000019"^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 "16.70000076"^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/143> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Malaysia" ;
+	mid:Country_Code "MYS" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/144> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Maldives" ;
+	mid:Country_Code "MDV" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/145> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Mali" ;
+	mid:Country_Code "MLI" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/146> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Malta" ;
+	mid:Country_Code "MLT" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/147> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Marshall Islands" ;
+	mid:Country_Code "MHL" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/148> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Mauritania" ;
+	mid:Country_Code "MRT" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 "24.39999962"^^<xsd:decimal> ;
+	mid:YR2012 "19.5"^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/149> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Mauritius" ;
+	mid:Country_Code "MUS" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/150> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Mexico" ;
+	mid:Country_Code "MEX" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 "2.799999952"^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/151> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Micronesia, Fed. Sts." ;
+	mid:Country_Code "FSM" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/152> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Middle East & North Africa" ;
+	mid:Country_Code "MEA" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/153> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Middle East & North Africa (excluding high income)" ;
+	mid:Country_Code "MNA" ;
+	mid:YR2010 "6.551399"^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 "5.79197"^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/154> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Middle East & North Africa (IDA & IBRD countries)" ;
+	mid:Country_Code "TMN" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/155> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Middle income" ;
+	mid:Country_Code "MIC" ;
+	mid:YR2010 "17.3562068"^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 "15.33372856"^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/156> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Moldova" ;
+	mid:Country_Code "MDA" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 "2.200000048"^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/157> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Monaco" ;
+	mid:Country_Code "MCO" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/158> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Mongolia" ;
+	mid:Country_Code "MNG" ;
+	mid:YR2010 "4.699999809"^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 "1.600000024"^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/159> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Montenegro" ;
+	mid:Country_Code "MNE" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 "1"^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/160> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Morocco" ;
+	mid:Country_Code "MAR" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 "3.099999905"^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/161> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Mozambique" ;
+	mid:Country_Code "MOZ" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 "15.60000038"^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/162> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Myanmar" ;
+	mid:Country_Code "MMR" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/163> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Namibia" ;
+	mid:Country_Code "NAM" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 "13.19999981"^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/164> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Nauru" ;
+	mid:Country_Code "NRU" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/165> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Nepal" ;
+	mid:Country_Code "NPL" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 "29.10000038"^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/166> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Netherlands" ;
+	mid:Country_Code "NLD" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/167> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "New Caledonia" ;
+	mid:Country_Code "NCL" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/168> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "New Zealand" ;
+	mid:Country_Code "NZL" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/169> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Nicaragua" ;
+	mid:Country_Code "NIC" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/170> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Niger" ;
+	mid:Country_Code "NER" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 "37.90000153"^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/171> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Nigeria" ;
+	mid:Country_Code "NGA" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 "24.39999962"^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 "31"^^<xsd:decimal> ;
+	mid:YR2014 "19.79999924"^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/172> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "North America" ;
+	mid:Country_Code "NAC" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/173> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Northern Mariana Islands" ;
+	mid:Country_Code "MNP" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/174> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Norway" ;
+	mid:Country_Code "NOR" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/175> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "OECD members" ;
+	mid:Country_Code "OED" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/176> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Oman" ;
+	mid:Country_Code "OMN" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/177> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Other small states" ;
+	mid:Country_Code "OSS" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/178> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Pacific island small states" ;
+	mid:Country_Code "PSS" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/179> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Pakistan" ;
+	mid:Country_Code "PAK" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 "30.89999962"^^<xsd:decimal> ;
+	mid:YR2012 "31.60000038"^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/180> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Palau" ;
+	mid:Country_Code "PLW" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/181> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Panama" ;
+	mid:Country_Code "PAN" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/182> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Papua New Guinea" ;
+	mid:Country_Code "PNG" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 "27.89999962"^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/183> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Paraguay" ;
+	mid:Country_Code "PRY" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 "2.599999905"^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/184> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Peru" ;
+	mid:Country_Code "PER" ;
+	mid:YR2010 "4.300000191"^^<xsd:decimal> ;
+	mid:YR2011 "4.199999809"^^<xsd:decimal> ;
+	mid:YR2012 "3.5"^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/185> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Philippines" ;
+	mid:Country_Code "PHL" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 "20.20000076"^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/186> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Poland" ;
+	mid:Country_Code "POL" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/187> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Portugal" ;
+	mid:Country_Code "PRT" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/188> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Post-demographic dividend" ;
+	mid:Country_Code "PST" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/189> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Pre-demographic dividend" ;
+	mid:Country_Code "PRE" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/190> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Puerto Rico" ;
+	mid:Country_Code "PRI" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/191> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Qatar" ;
+	mid:Country_Code "QAT" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/192> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Romania" ;
+	mid:Country_Code "ROM" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/193> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Russian Federation" ;
+	mid:Country_Code "RUS" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/194> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Rwanda" ;
+	mid:Country_Code "RWA" ;
+	mid:YR2010 "11.69999981"^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/195> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Samoa" ;
+	mid:Country_Code "WSM" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/196> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "San Marino" ;
+	mid:Country_Code "SMR" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/197> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Sao Tome and Principe" ;
+	mid:Country_Code "STP" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/198> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Saudi Arabia" ;
+	mid:Country_Code "SAU" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/199> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Senegal" ;
+	mid:Country_Code "SEN" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 "19.20000076"^^<xsd:decimal> ;
+	mid:YR2012 "14.39999962"^^<xsd:decimal> ;
+	mid:YR2013 "16.79999924"^^<xsd:decimal> ;
+	mid:YR2014 "12.80000019"^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/200> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Serbia" ;
+	mid:Country_Code "SRB" ;
+	mid:YR2010 "1.600000024"^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 "1.799999952"^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/201> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Seychelles" ;
+	mid:Country_Code "SYC" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 "3.599999905"^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/202> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Sierra Leone" ;
+	mid:Country_Code "SLE" ;
+	mid:YR2010 "21.10000038"^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 "18.10000038"^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/203> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Singapore" ;
+	mid:Country_Code "SGP" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/204> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Sint Maarten (Dutch part)" ;
+	mid:Country_Code "SXM" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/205> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Slovak Republic" ;
+	mid:Country_Code "SVK" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/206> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Slovenia" ;
+	mid:Country_Code "SVN" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/207> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Small states" ;
+	mid:Country_Code "SST" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/208> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Solomon Islands" ;
+	mid:Country_Code "SLB" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/209> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Somalia" ;
+	mid:Country_Code "SOM" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/210> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "South Africa" ;
+	mid:Country_Code "ZAF" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/211> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "South Asia" ;
+	mid:Country_Code "SAS" ;
+	mid:YR2010 "33.23195"^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 "29.84144"^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/212> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "South Asia (IDA & IBRD)" ;
+	mid:Country_Code "TSA" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/213> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "South Sudan" ;
+	mid:Country_Code "SSD" ;
+	mid:YR2010 "27.60000038"^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/214> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Spain" ;
+	mid:Country_Code "ESP" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/215> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Sri Lanka" ;
+	mid:Country_Code "LKA" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 "26.29999924"^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/216> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "St. Kitts and Nevis" ;
+	mid:Country_Code "KNA" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/217> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "St. Lucia" ;
+	mid:Country_Code "LCA" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 "2.799999952"^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/218> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "St. Martin (French part)" ;
+	mid:Country_Code "MAF" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/219> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "St. Vincent and the Grenadines" ;
+	mid:Country_Code "VCT" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/220> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Sub-Saharan Africa" ;
+	mid:Country_Code "SSF" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/221> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Sub-Saharan Africa (excluding high income)" ;
+	mid:Country_Code "SSA" ;
+	mid:YR2010 "21.14832"^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 "19.6282"^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/222> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Sub-Saharan Africa (IDA & IBRD countries)" ;
+	mid:Country_Code "TSS" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/223> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Sudan" ;
+	mid:Country_Code "SDN" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 "33"^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/224> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Suriname" ;
+	mid:Country_Code "SUR" ;
+	mid:YR2010 "5.800000191"^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/225> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Swaziland" ;
+	mid:Country_Code "SWZ" ;
+	mid:YR2010 "5.800000191"^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/226> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Sweden" ;
+	mid:Country_Code "SWE" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/227> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Switzerland" ;
+	mid:Country_Code "CHE" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/228> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Syrian Arab Republic" ;
+	mid:Country_Code "SYR" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/229> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Tajikistan" ;
+	mid:Country_Code "TJK" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 "13.30000019"^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/230> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Tanzania" ;
+	mid:Country_Code "TZA" ;
+	mid:YR2010 "16.20000076"^^<xsd:decimal> ;
+	mid:YR2011 "13.60000038"^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/231> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Thailand" ;
+	mid:Country_Code "THA" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 "9.199999809"^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/232> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Timor-Leste" ;
+	mid:Country_Code "TMP" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/233> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Togo" ;
+	mid:Country_Code "TGO" ;
+	mid:YR2010 "16.5"^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 "16.20000076"^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/234> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Tonga" ;
+	mid:Country_Code "TON" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 "1.899999976"^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/235> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Trinidad and Tobago" ;
+	mid:Country_Code "TTO" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/236> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Tunisia" ;
+	mid:Country_Code "TUN" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 "2.299999952"^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/237> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Turkey" ;
+	mid:Country_Code "TUR" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 "1.899999976"^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/238> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Turkmenistan" ;
+	mid:Country_Code "TKM" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/239> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Turks and Caicos Islands" ;
+	mid:Country_Code "TCA" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/240> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Tuvalu" ;
+	mid:Country_Code "TUV" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/241> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Uganda" ;
+	mid:Country_Code "UGA" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 "14.10000038"^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/242> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Ukraine" ;
+	mid:Country_Code "UKR" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/243> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "United Arab Emirates" ;
+	mid:Country_Code "ARE" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/244> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "United Kingdom" ;
+	mid:Country_Code "GBR" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/245> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "United States" ;
+	mid:Country_Code "USA" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 "0.5"^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/246> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Upper middle income" ;
+	mid:Country_Code "UMC" ;
+	mid:YR2010 "3.32605249"^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 "2.50285184"^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/247> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Uruguay" ;
+	mid:Country_Code "URY" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 "4.5"^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/248> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Uzbekistan" ;
+	mid:Country_Code "UZB" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/249> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Vanuatu" ;
+	mid:Country_Code "VUT" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 "10.69999981"^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/250> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Venezuela, RB" ;
+	mid:Country_Code "VEN" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/251> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Vietnam" ;
+	mid:Country_Code "VNM" ;
+	mid:YR2010 "12"^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 "12.10000038"^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/252> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Virgin Islands (U.S.)" ;
+	mid:Country_Code "VIR" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/253> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "West Bank and Gaza" ;
+	mid:Country_Code "WBG" ;
+	mid:YR2010 "3.700000048"^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 "1.399999976"^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/254> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "World" ;
+	mid:Country_Code "WLD" ;
+	mid:YR2010 "16.08690479"^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 "14.31794216"^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/255> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Yemen, Rep." ;
+	mid:Country_Code "YEM" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 "35.5"^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 "39.90000153"^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/256> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Zambia" ;
+	mid:Country_Code "ZMB" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 "14.80000019"^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/257> mid:Series_Name "Malnutrition prevalence, weight for age (% of children under 5)" ;
+	mid:Country_Name "Zimbabwe" ;
+	mid:Country_Code "ZWE" ;
+	mid:YR2010 "10.10000038"^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 "11.19999981"^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/258> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Afghanistan" ;
+	mid:Country_Code "AFG" ;
+	mid:YR2010 "81775"^^<xsd:decimal> ;
+	mid:YR2011 "78764"^^<xsd:decimal> ;
+	mid:YR2012 "75586"^^<xsd:decimal> ;
+	mid:YR2013 "72378"^^<xsd:decimal> ;
+	mid:YR2014 "69579"^^<xsd:decimal> ;
+	mid:YR2015 "67399"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/259> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Albania" ;
+	mid:Country_Code "ALB" ;
+	mid:YR2010 "483"^^<xsd:decimal> ;
+	mid:YR2011 "490"^^<xsd:decimal> ;
+	mid:YR2012 "513"^^<xsd:decimal> ;
+	mid:YR2013 "540"^^<xsd:decimal> ;
+	mid:YR2014 "561"^^<xsd:decimal> ;
+	mid:YR2015 "564"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/260> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Algeria" ;
+	mid:Country_Code "DZA" ;
+	mid:YR2010 "21820"^^<xsd:decimal> ;
+	mid:YR2011 "21805"^^<xsd:decimal> ;
+	mid:YR2012 "21801"^^<xsd:decimal> ;
+	mid:YR2013 "21619"^^<xsd:decimal> ;
+	mid:YR2014 "21375"^^<xsd:decimal> ;
+	mid:YR2015 "20899"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/261> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "American Samoa" ;
+	mid:Country_Code "ASM" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/262> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Andorra" ;
+	mid:Country_Code "ADO" ;
+	mid:YR2010 "2"^^<xsd:decimal> ;
+	mid:YR2011 "2"^^<xsd:decimal> ;
+	mid:YR2012 "2"^^<xsd:decimal> ;
+	mid:YR2013 "2"^^<xsd:decimal> ;
+	mid:YR2014 "2"^^<xsd:decimal> ;
+	mid:YR2015 "2"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/263> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Angola" ;
+	mid:Country_Code "AGO" ;
+	mid:YR2010 "108137"^^<xsd:decimal> ;
+	mid:YR2011 "107441"^^<xsd:decimal> ;
+	mid:YR2012 "106694"^^<xsd:decimal> ;
+	mid:YR2013 "105861"^^<xsd:decimal> ;
+	mid:YR2014 "105154"^^<xsd:decimal> ;
+	mid:YR2015 "104291"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/264> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Antigua and Barbuda" ;
+	mid:Country_Code "ATG" ;
+	mid:YR2010 "11"^^<xsd:decimal> ;
+	mid:YR2011 "11"^^<xsd:decimal> ;
+	mid:YR2012 "10"^^<xsd:decimal> ;
+	mid:YR2013 "9"^^<xsd:decimal> ;
+	mid:YR2014 "9"^^<xsd:decimal> ;
+	mid:YR2015 "9"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/265> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Arab World" ;
+	mid:Country_Code "ARB" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/266> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Argentina" ;
+	mid:Country_Code "ARG" ;
+	mid:YR2010 "9495"^^<xsd:decimal> ;
+	mid:YR2011 "9315"^^<xsd:decimal> ;
+	mid:YR2012 "9114"^^<xsd:decimal> ;
+	mid:YR2013 "8931"^^<xsd:decimal> ;
+	mid:YR2014 "8723"^^<xsd:decimal> ;
+	mid:YR2015 "8464"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/267> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Armenia" ;
+	mid:Country_Code "ARM" ;
+	mid:YR2010 "749"^^<xsd:decimal> ;
+	mid:YR2011 "696"^^<xsd:decimal> ;
+	mid:YR2012 "649"^^<xsd:decimal> ;
+	mid:YR2013 "598"^^<xsd:decimal> ;
+	mid:YR2014 "556"^^<xsd:decimal> ;
+	mid:YR2015 "513"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/268> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Aruba" ;
+	mid:Country_Code "ABW" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/269> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Australia" ;
+	mid:Country_Code "AUS" ;
+	mid:YR2010 "1276"^^<xsd:decimal> ;
+	mid:YR2011 "1186"^^<xsd:decimal> ;
+	mid:YR2012 "1110"^^<xsd:decimal> ;
+	mid:YR2013 "1027"^^<xsd:decimal> ;
+	mid:YR2014 "954"^^<xsd:decimal> ;
+	mid:YR2015 "896"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/270> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Austria" ;
+	mid:Country_Code "AUT" ;
+	mid:YR2010 "278"^^<xsd:decimal> ;
+	mid:YR2011 "264"^^<xsd:decimal> ;
+	mid:YR2012 "260"^^<xsd:decimal> ;
+	mid:YR2013 "257"^^<xsd:decimal> ;
+	mid:YR2014 "244"^^<xsd:decimal> ;
+	mid:YR2015 "239"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/271> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Azerbaijan" ;
+	mid:Country_Code "AZE" ;
+	mid:YR2010 "5597"^^<xsd:decimal> ;
+	mid:YR2011 "5903"^^<xsd:decimal> ;
+	mid:YR2012 "6282"^^<xsd:decimal> ;
+	mid:YR2013 "6600"^^<xsd:decimal> ;
+	mid:YR2014 "6706"^^<xsd:decimal> ;
+	mid:YR2015 "6519"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/272> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Bahamas, The" ;
+	mid:Country_Code "BHS" ;
+	mid:YR2010 "71"^^<xsd:decimal> ;
+	mid:YR2011 "69"^^<xsd:decimal> ;
+	mid:YR2012 "67"^^<xsd:decimal> ;
+	mid:YR2013 "63"^^<xsd:decimal> ;
+	mid:YR2014 "60"^^<xsd:decimal> ;
+	mid:YR2015 "57"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/273> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Bahrain" ;
+	mid:Country_Code "BHR" ;
+	mid:YR2010 "129"^^<xsd:decimal> ;
+	mid:YR2011 "131"^^<xsd:decimal> ;
+	mid:YR2012 "131"^^<xsd:decimal> ;
+	mid:YR2013 "127"^^<xsd:decimal> ;
+	mid:YR2014 "123"^^<xsd:decimal> ;
+	mid:YR2015 "115"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/274> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Bangladesh" ;
+	mid:Country_Code "BGD" ;
+	mid:YR2010 "123231"^^<xsd:decimal> ;
+	mid:YR2011 "116322"^^<xsd:decimal> ;
+	mid:YR2012 "110578"^^<xsd:decimal> ;
+	mid:YR2013 "105556"^^<xsd:decimal> ;
+	mid:YR2014 "101722"^^<xsd:decimal> ;
+	mid:YR2015 "97478"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/275> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Barbados" ;
+	mid:Country_Code "BRB" ;
+	mid:YR2010 "45"^^<xsd:decimal> ;
+	mid:YR2011 "44"^^<xsd:decimal> ;
+	mid:YR2012 "43"^^<xsd:decimal> ;
+	mid:YR2013 "43"^^<xsd:decimal> ;
+	mid:YR2014 "42"^^<xsd:decimal> ;
+	mid:YR2015 "41"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/276> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Belarus" ;
+	mid:Country_Code "BLR" ;
+	mid:YR2010 "519"^^<xsd:decimal> ;
+	mid:YR2011 "492"^^<xsd:decimal> ;
+	mid:YR2012 "478"^^<xsd:decimal> ;
+	mid:YR2013 "471"^^<xsd:decimal> ;
+	mid:YR2014 "442"^^<xsd:decimal> ;
+	mid:YR2015 "428"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/277> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Belgium" ;
+	mid:Country_Code "BEL" ;
+	mid:YR2010 "477"^^<xsd:decimal> ;
+	mid:YR2011 "462"^^<xsd:decimal> ;
+	mid:YR2012 "457"^^<xsd:decimal> ;
+	mid:YR2013 "437"^^<xsd:decimal> ;
+	mid:YR2014 "432"^^<xsd:decimal> ;
+	mid:YR2015 "417"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/278> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Belize" ;
+	mid:Country_Code "BLZ" ;
+	mid:YR2010 "120"^^<xsd:decimal> ;
+	mid:YR2011 "120"^^<xsd:decimal> ;
+	mid:YR2012 "120"^^<xsd:decimal> ;
+	mid:YR2013 "121"^^<xsd:decimal> ;
+	mid:YR2014 "121"^^<xsd:decimal> ;
+	mid:YR2015 "120"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/279> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Benin" ;
+	mid:Country_Code "BEN" ;
+	mid:YR2010 "24776"^^<xsd:decimal> ;
+	mid:YR2011 "24709"^^<xsd:decimal> ;
+	mid:YR2012 "24587"^^<xsd:decimal> ;
+	mid:YR2013 "24458"^^<xsd:decimal> ;
+	mid:YR2014 "24258"^^<xsd:decimal> ;
+	mid:YR2015 "24069"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/280> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Bermuda" ;
+	mid:Country_Code "BMU" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/281> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Bhutan" ;
+	mid:Country_Code "BTN" ;
+	mid:YR2010 "516"^^<xsd:decimal> ;
+	mid:YR2011 "475"^^<xsd:decimal> ;
+	mid:YR2012 "432"^^<xsd:decimal> ;
+	mid:YR2013 "391"^^<xsd:decimal> ;
+	mid:YR2014 "358"^^<xsd:decimal> ;
+	mid:YR2015 "335"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/282> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Bolivia" ;
+	mid:Country_Code "BOL" ;
+	mid:YR2010 "9137"^^<xsd:decimal> ;
+	mid:YR2011 "8731"^^<xsd:decimal> ;
+	mid:YR2012 "8369"^^<xsd:decimal> ;
+	mid:YR2013 "8039"^^<xsd:decimal> ;
+	mid:YR2014 "7756"^^<xsd:decimal> ;
+	mid:YR2015 "7504"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/283> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Bosnia and Herzegovina" ;
+	mid:Country_Code "BIH" ;
+	mid:YR2010 "276"^^<xsd:decimal> ;
+	mid:YR2011 "267"^^<xsd:decimal> ;
+	mid:YR2012 "241"^^<xsd:decimal> ;
+	mid:YR2013 "208"^^<xsd:decimal> ;
+	mid:YR2014 "182"^^<xsd:decimal> ;
+	mid:YR2015 "159"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/284> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Botswana" ;
+	mid:Country_Code "BWA" ;
+	mid:YR2010 "2044"^^<xsd:decimal> ;
+	mid:YR2011 "2115"^^<xsd:decimal> ;
+	mid:YR2012 "2091"^^<xsd:decimal> ;
+	mid:YR2013 "2049"^^<xsd:decimal> ;
+	mid:YR2014 "2042"^^<xsd:decimal> ;
+	mid:YR2015 "2007"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/285> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Brazil" ;
+	mid:Country_Code "BRA" ;
+	mid:YR2010 "42049"^^<xsd:decimal> ;
+	mid:YR2011 "41324"^^<xsd:decimal> ;
+	mid:YR2012 "42305"^^<xsd:decimal> ;
+	mid:YR2013 "43966"^^<xsd:decimal> ;
+	mid:YR2014 "45682"^^<xsd:decimal> ;
+	mid:YR2015 "46995"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/286> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "British Virgin Islands" ;
+	mid:Country_Code "VGB" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/287> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Brunei Darussalam" ;
+	mid:Country_Code "BRN" ;
+	mid:YR2010 "45"^^<xsd:decimal> ;
+	mid:YR2011 "48"^^<xsd:decimal> ;
+	mid:YR2012 "54"^^<xsd:decimal> ;
+	mid:YR2013 "59"^^<xsd:decimal> ;
+	mid:YR2014 "64"^^<xsd:decimal> ;
+	mid:YR2015 "66"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/288> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Bulgaria" ;
+	mid:Country_Code "BGR" ;
+	mid:YR2010 "872"^^<xsd:decimal> ;
+	mid:YR2011 "824"^^<xsd:decimal> ;
+	mid:YR2012 "750"^^<xsd:decimal> ;
+	mid:YR2013 "671"^^<xsd:decimal> ;
+	mid:YR2014 "604"^^<xsd:decimal> ;
+	mid:YR2015 "557"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/289> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Burkina Faso" ;
+	mid:Country_Code "BFA" ;
+	mid:YR2010 "44999"^^<xsd:decimal> ;
+	mid:YR2011 "44017"^^<xsd:decimal> ;
+	mid:YR2012 "43240"^^<xsd:decimal> ;
+	mid:YR2013 "42548"^^<xsd:decimal> ;
+	mid:YR2014 "42048"^^<xsd:decimal> ;
+	mid:YR2015 "41810"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/290> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Burundi" ;
+	mid:Country_Code "BDI" ;
+	mid:YR2010 "26039"^^<xsd:decimal> ;
+	mid:YR2011 "25932"^^<xsd:decimal> ;
+	mid:YR2012 "25698"^^<xsd:decimal> ;
+	mid:YR2013 "25435"^^<xsd:decimal> ;
+	mid:YR2014 "25172"^^<xsd:decimal> ;
+	mid:YR2015 "24956"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/291> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Cabo Verde" ;
+	mid:Country_Code "CPV" ;
+	mid:YR2010 "267"^^<xsd:decimal> ;
+	mid:YR2011 "261"^^<xsd:decimal> ;
+	mid:YR2012 "253"^^<xsd:decimal> ;
+	mid:YR2013 "244"^^<xsd:decimal> ;
+	mid:YR2014 "235"^^<xsd:decimal> ;
+	mid:YR2015 "226"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/292> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Cambodia" ;
+	mid:Country_Code "KHM" ;
+	mid:YR2010 "13992"^^<xsd:decimal> ;
+	mid:YR2011 "12731"^^<xsd:decimal> ;
+	mid:YR2012 "11460"^^<xsd:decimal> ;
+	mid:YR2013 "10360"^^<xsd:decimal> ;
+	mid:YR2014 "9461"^^<xsd:decimal> ;
+	mid:YR2015 "8759"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/293> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Cameroon" ;
+	mid:Country_Code "CMR" ;
+	mid:YR2010 "50648"^^<xsd:decimal> ;
+	mid:YR2011 "49922"^^<xsd:decimal> ;
+	mid:YR2012 "49046"^^<xsd:decimal> ;
+	mid:YR2013 "48149"^^<xsd:decimal> ;
+	mid:YR2014 "47365"^^<xsd:decimal> ;
+	mid:YR2015 "46762"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/294> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Canada" ;
+	mid:Country_Code "CAN" ;
+	mid:YR2010 "1939"^^<xsd:decimal> ;
+	mid:YR2011 "1852"^^<xsd:decimal> ;
+	mid:YR2012 "1822"^^<xsd:decimal> ;
+	mid:YR2013 "1743"^^<xsd:decimal> ;
+	mid:YR2014 "1636"^^<xsd:decimal> ;
+	mid:YR2015 "1587"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/295> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Caribbean small states" ;
+	mid:Country_Code "CSS" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/296> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Cayman Islands" ;
+	mid:Country_Code "CYM" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/297> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Central African Republic" ;
+	mid:Country_Code "CAF" ;
+	mid:YR2010 "14969"^^<xsd:decimal> ;
+	mid:YR2011 "14936"^^<xsd:decimal> ;
+	mid:YR2012 "14984"^^<xsd:decimal> ;
+	mid:YR2013 "15125"^^<xsd:decimal> ;
+	mid:YR2014 "15049"^^<xsd:decimal> ;
+	mid:YR2015 "14981"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/298> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Central Europe and the Baltics" ;
+	mid:Country_Code "CEB" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/299> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Chad" ;
+	mid:Country_Code "TCD" ;
+	mid:YR2010 "50467"^^<xsd:decimal> ;
+	mid:YR2011 "50650"^^<xsd:decimal> ;
+	mid:YR2012 "50852"^^<xsd:decimal> ;
+	mid:YR2013 "50995"^^<xsd:decimal> ;
+	mid:YR2014 "51181"^^<xsd:decimal> ;
+	mid:YR2015 "51335"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/300> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Channel Islands" ;
+	mid:Country_Code "CHI" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/301> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Chile" ;
+	mid:Country_Code "CHL" ;
+	mid:YR2010 "1815"^^<xsd:decimal> ;
+	mid:YR2011 "1781"^^<xsd:decimal> ;
+	mid:YR2012 "1749"^^<xsd:decimal> ;
+	mid:YR2013 "1717"^^<xsd:decimal> ;
+	mid:YR2014 "1687"^^<xsd:decimal> ;
+	mid:YR2015 "1636"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/302> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "China" ;
+	mid:Country_Code "CHN" ;
+	mid:YR2010 "216375"^^<xsd:decimal> ;
+	mid:YR2011 "201706"^^<xsd:decimal> ;
+	mid:YR2012 "188741"^^<xsd:decimal> ;
+	mid:YR2013 "177504"^^<xsd:decimal> ;
+	mid:YR2014 "166402"^^<xsd:decimal> ;
+	mid:YR2015 "156450"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/303> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Colombia" ;
+	mid:Country_Code "COL" ;
+	mid:YR2010 "12208"^^<xsd:decimal> ;
+	mid:YR2011 "11680"^^<xsd:decimal> ;
+	mid:YR2012 "11232"^^<xsd:decimal> ;
+	mid:YR2013 "10910"^^<xsd:decimal> ;
+	mid:YR2014 "10595"^^<xsd:decimal> ;
+	mid:YR2015 "10183"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/304> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Comoros" ;
+	mid:Country_Code "COM" ;
+	mid:YR2010 "1524"^^<xsd:decimal> ;
+	mid:YR2011 "1506"^^<xsd:decimal> ;
+	mid:YR2012 "1495"^^<xsd:decimal> ;
+	mid:YR2013 "1478"^^<xsd:decimal> ;
+	mid:YR2014 "1456"^^<xsd:decimal> ;
+	mid:YR2015 "1433"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/305> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Congo, Dem. Rep." ;
+	mid:Country_Code "ZAR" ;
+	mid:YR2010 "237711"^^<xsd:decimal> ;
+	mid:YR2011 "236512"^^<xsd:decimal> ;
+	mid:YR2012 "235628"^^<xsd:decimal> ;
+	mid:YR2013 "234375"^^<xsd:decimal> ;
+	mid:YR2014 "234269"^^<xsd:decimal> ;
+	mid:YR2015 "233339"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/306> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Congo, Rep." ;
+	mid:Country_Code "COG" ;
+	mid:YR2010 "6310"^^<xsd:decimal> ;
+	mid:YR2011 "6065"^^<xsd:decimal> ;
+	mid:YR2012 "5880"^^<xsd:decimal> ;
+	mid:YR2013 "5714"^^<xsd:decimal> ;
+	mid:YR2014 "5556"^^<xsd:decimal> ;
+	mid:YR2015 "5426"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/307> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Costa Rica" ;
+	mid:Country_Code "CRI" ;
+	mid:YR2010 "678"^^<xsd:decimal> ;
+	mid:YR2011 "665"^^<xsd:decimal> ;
+	mid:YR2012 "650"^^<xsd:decimal> ;
+	mid:YR2013 "622"^^<xsd:decimal> ;
+	mid:YR2014 "597"^^<xsd:decimal> ;
+	mid:YR2015 "577"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/308> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Cote d'Ivoire" ;
+	mid:Country_Code "CIV" ;
+	mid:YR2010 "56440"^^<xsd:decimal> ;
+	mid:YR2011 "56258"^^<xsd:decimal> ;
+	mid:YR2012 "55965"^^<xsd:decimal> ;
+	mid:YR2013 "55681"^^<xsd:decimal> ;
+	mid:YR2014 "55357"^^<xsd:decimal> ;
+	mid:YR2015 "54998"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/309> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Croatia" ;
+	mid:Country_Code "HRV" ;
+	mid:YR2010 "229"^^<xsd:decimal> ;
+	mid:YR2011 "212"^^<xsd:decimal> ;
+	mid:YR2012 "192"^^<xsd:decimal> ;
+	mid:YR2013 "174"^^<xsd:decimal> ;
+	mid:YR2014 "152"^^<xsd:decimal> ;
+	mid:YR2015 "135"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/310> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Cuba" ;
+	mid:Country_Code "CUB" ;
+	mid:YR2010 "584"^^<xsd:decimal> ;
+	mid:YR2011 "571"^^<xsd:decimal> ;
+	mid:YR2012 "547"^^<xsd:decimal> ;
+	mid:YR2013 "524"^^<xsd:decimal> ;
+	mid:YR2014 "486"^^<xsd:decimal> ;
+	mid:YR2015 "469"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/311> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Curacao" ;
+	mid:Country_Code "CUW" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/312> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Cyprus" ;
+	mid:Country_Code "CYP" ;
+	mid:YR2010 "40"^^<xsd:decimal> ;
+	mid:YR2011 "39"^^<xsd:decimal> ;
+	mid:YR2012 "37"^^<xsd:decimal> ;
+	mid:YR2013 "36"^^<xsd:decimal> ;
+	mid:YR2014 "34"^^<xsd:decimal> ;
+	mid:YR2015 "32"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/313> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Czech Republic" ;
+	mid:Country_Code "CZE" ;
+	mid:YR2010 "408"^^<xsd:decimal> ;
+	mid:YR2011 "370"^^<xsd:decimal> ;
+	mid:YR2012 "349"^^<xsd:decimal> ;
+	mid:YR2013 "306"^^<xsd:decimal> ;
+	mid:YR2014 "279"^^<xsd:decimal> ;
+	mid:YR2015 "262"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/314> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Denmark" ;
+	mid:Country_Code "DNK" ;
+	mid:YR2010 "219"^^<xsd:decimal> ;
+	mid:YR2011 "204"^^<xsd:decimal> ;
+	mid:YR2012 "192"^^<xsd:decimal> ;
+	mid:YR2013 "173"^^<xsd:decimal> ;
+	mid:YR2014 "158"^^<xsd:decimal> ;
+	mid:YR2015 "150"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/315> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Djibouti" ;
+	mid:Country_Code "DJI" ;
+	mid:YR2010 "1314"^^<xsd:decimal> ;
+	mid:YR2011 "1281"^^<xsd:decimal> ;
+	mid:YR2012 "1259"^^<xsd:decimal> ;
+	mid:YR2013 "1242"^^<xsd:decimal> ;
+	mid:YR2014 "1220"^^<xsd:decimal> ;
+	mid:YR2015 "1190"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/316> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Dominica" ;
+	mid:Country_Code "DMA" ;
+	mid:YR2010 "18"^^<xsd:decimal> ;
+	mid:YR2011 "19"^^<xsd:decimal> ;
+	mid:YR2012 "20"^^<xsd:decimal> ;
+	mid:YR2013 "21"^^<xsd:decimal> ;
+	mid:YR2014 "21"^^<xsd:decimal> ;
+	mid:YR2015 "21"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/317> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Dominican Republic" ;
+	mid:Country_Code "DOM" ;
+	mid:YR2010 "6047"^^<xsd:decimal> ;
+	mid:YR2011 "5947"^^<xsd:decimal> ;
+	mid:YR2012 "5865"^^<xsd:decimal> ;
+	mid:YR2013 "5792"^^<xsd:decimal> ;
+	mid:YR2014 "5690"^^<xsd:decimal> ;
+	mid:YR2015 "5572"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/318> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Early-demographic dividend" ;
+	mid:Country_Code "EAR" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/319> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "East Asia & Pacific" ;
+	mid:Country_Code "EAS" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/320> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "East Asia & Pacific (excluding high income)" ;
+	mid:Country_Code "EAP" ;
+	mid:YR2010 "536456"^^<xsd:decimal> ;
+	mid:YR2011 "514646"^^<xsd:decimal> ;
+	mid:YR2012 "497039"^^<xsd:decimal> ;
+	mid:YR2013 "481778"^^<xsd:decimal> ;
+	mid:YR2014 "465786"^^<xsd:decimal> ;
+	mid:YR2015 "447554"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/321> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "East Asia & Pacific (IDA & IBRD countries)" ;
+	mid:Country_Code "TEA" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/322> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Ecuador" ;
+	mid:Country_Code "ECU" ;
+	mid:YR2010 "7085"^^<xsd:decimal> ;
+	mid:YR2011 "6908"^^<xsd:decimal> ;
+	mid:YR2012 "6693"^^<xsd:decimal> ;
+	mid:YR2013 "6455"^^<xsd:decimal> ;
+	mid:YR2014 "6251"^^<xsd:decimal> ;
+	mid:YR2015 "6027"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/323> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Egypt, Arab Rep." ;
+	mid:Country_Code "EGY" ;
+	mid:YR2010 "49304"^^<xsd:decimal> ;
+	mid:YR2011 "51014"^^<xsd:decimal> ;
+	mid:YR2012 "53816"^^<xsd:decimal> ;
+	mid:YR2013 "56424"^^<xsd:decimal> ;
+	mid:YR2014 "57588"^^<xsd:decimal> ;
+	mid:YR2015 "56914"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/324> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "El Salvador" ;
+	mid:Country_Code "SLV" ;
+	mid:YR2010 "1961"^^<xsd:decimal> ;
+	mid:YR2011 "1863"^^<xsd:decimal> ;
+	mid:YR2012 "1770"^^<xsd:decimal> ;
+	mid:YR2013 "1665"^^<xsd:decimal> ;
+	mid:YR2014 "1580"^^<xsd:decimal> ;
+	mid:YR2015 "1509"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/325> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Equatorial Guinea" ;
+	mid:Country_Code "GNQ" ;
+	mid:YR2010 "2055"^^<xsd:decimal> ;
+	mid:YR2011 "2038"^^<xsd:decimal> ;
+	mid:YR2012 "2013"^^<xsd:decimal> ;
+	mid:YR2013 "1989"^^<xsd:decimal> ;
+	mid:YR2014 "1968"^^<xsd:decimal> ;
+	mid:YR2015 "1940"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/326> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Eritrea" ;
+	mid:Country_Code "ERI" ;
+	mid:YR2010 "6619"^^<xsd:decimal> ;
+	mid:YR2011 "6398"^^<xsd:decimal> ;
+	mid:YR2012 "6161"^^<xsd:decimal> ;
+	mid:YR2013 "5960"^^<xsd:decimal> ;
+	mid:YR2014 "5781"^^<xsd:decimal> ;
+	mid:YR2015 "5652"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/327> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Estonia" ;
+	mid:Country_Code "EST" ;
+	mid:YR2010 "59"^^<xsd:decimal> ;
+	mid:YR2011 "50"^^<xsd:decimal> ;
+	mid:YR2012 "42"^^<xsd:decimal> ;
+	mid:YR2013 "36"^^<xsd:decimal> ;
+	mid:YR2014 "32"^^<xsd:decimal> ;
+	mid:YR2015 "28"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/328> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Ethiopia" ;
+	mid:Country_Code "ETH" ;
+	mid:YR2010 "149585"^^<xsd:decimal> ;
+	mid:YR2011 "143719"^^<xsd:decimal> ;
+	mid:YR2012 "139264"^^<xsd:decimal> ;
+	mid:YR2013 "136073"^^<xsd:decimal> ;
+	mid:YR2014 "133012"^^<xsd:decimal> ;
+	mid:YR2015 "129947"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/329> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Euro area" ;
+	mid:Country_Code "EMU" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/330> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Europe & Central Asia" ;
+	mid:Country_Code "ECS" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/331> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Europe & Central Asia (excluding high income)" ;
+	mid:Country_Code "ECA" ;
+	mid:YR2010 "93612"^^<xsd:decimal> ;
+	mid:YR2011 "91150"^^<xsd:decimal> ;
+	mid:YR2012 "88559"^^<xsd:decimal> ;
+	mid:YR2013 "85660"^^<xsd:decimal> ;
+	mid:YR2014 "82196"^^<xsd:decimal> ;
+	mid:YR2015 "78201"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/332> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Europe & Central Asia (IDA & IBRD countries)" ;
+	mid:Country_Code "TEC" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/333> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "European Union" ;
+	mid:Country_Code "EUU" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/334> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Faroe Islands" ;
+	mid:Country_Code "FRO" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/335> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Fiji" ;
+	mid:Country_Code "FJI" ;
+	mid:YR2010 "390"^^<xsd:decimal> ;
+	mid:YR2011 "380"^^<xsd:decimal> ;
+	mid:YR2012 "370"^^<xsd:decimal> ;
+	mid:YR2013 "355"^^<xsd:decimal> ;
+	mid:YR2014 "340"^^<xsd:decimal> ;
+	mid:YR2015 "328"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/336> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Finland" ;
+	mid:Country_Code "FIN" ;
+	mid:YR2010 "156"^^<xsd:decimal> ;
+	mid:YR2011 "148"^^<xsd:decimal> ;
+	mid:YR2012 "134"^^<xsd:decimal> ;
+	mid:YR2013 "125"^^<xsd:decimal> ;
+	mid:YR2014 "117"^^<xsd:decimal> ;
+	mid:YR2015 "110"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/337> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Fragile and conflict affected situations" ;
+	mid:Country_Code "FCS" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/338> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "France" ;
+	mid:Country_Code "FRA" ;
+	mid:YR2010 "2745"^^<xsd:decimal> ;
+	mid:YR2011 "2747"^^<xsd:decimal> ;
+	mid:YR2012 "2749"^^<xsd:decimal> ;
+	mid:YR2013 "2830"^^<xsd:decimal> ;
+	mid:YR2014 "2829"^^<xsd:decimal> ;
+	mid:YR2015 "2747"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/339> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "French Polynesia" ;
+	mid:Country_Code "PYF" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/340> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Gabon" ;
+	mid:Country_Code "GAB" ;
+	mid:YR2010 "2032"^^<xsd:decimal> ;
+	mid:YR2011 "2004"^^<xsd:decimal> ;
+	mid:YR2012 "1965"^^<xsd:decimal> ;
+	mid:YR2013 "1912"^^<xsd:decimal> ;
+	mid:YR2014 "1885"^^<xsd:decimal> ;
+	mid:YR2015 "1852"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/341> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Gambia, The" ;
+	mid:Country_Code "GMB" ;
+	mid:YR2010 "3674"^^<xsd:decimal> ;
+	mid:YR2011 "3730"^^<xsd:decimal> ;
+	mid:YR2012 "3790"^^<xsd:decimal> ;
+	mid:YR2013 "3855"^^<xsd:decimal> ;
+	mid:YR2014 "3901"^^<xsd:decimal> ;
+	mid:YR2015 "3938"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/342> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Georgia" ;
+	mid:Country_Code "GEO" ;
+	mid:YR2010 "939"^^<xsd:decimal> ;
+	mid:YR2011 "863"^^<xsd:decimal> ;
+	mid:YR2012 "789"^^<xsd:decimal> ;
+	mid:YR2013 "723"^^<xsd:decimal> ;
+	mid:YR2014 "662"^^<xsd:decimal> ;
+	mid:YR2015 "601"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/343> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Germany" ;
+	mid:Country_Code "DEU" ;
+	mid:YR2010 "2313"^^<xsd:decimal> ;
+	mid:YR2011 "2265"^^<xsd:decimal> ;
+	mid:YR2012 "2219"^^<xsd:decimal> ;
+	mid:YR2013 "2240"^^<xsd:decimal> ;
+	mid:YR2014 "2191"^^<xsd:decimal> ;
+	mid:YR2015 "2140"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/344> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Ghana" ;
+	mid:Country_Code "GHA" ;
+	mid:YR2010 "39436"^^<xsd:decimal> ;
+	mid:YR2011 "39300"^^<xsd:decimal> ;
+	mid:YR2012 "39253"^^<xsd:decimal> ;
+	mid:YR2013 "39186"^^<xsd:decimal> ;
+	mid:YR2014 "38970"^^<xsd:decimal> ;
+	mid:YR2015 "38211"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/345> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Gibraltar" ;
+	mid:Country_Code "GIB" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/346> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Greece" ;
+	mid:Country_Code "GRC" ;
+	mid:YR2010 "469"^^<xsd:decimal> ;
+	mid:YR2011 "459"^^<xsd:decimal> ;
+	mid:YR2012 "446"^^<xsd:decimal> ;
+	mid:YR2013 "430"^^<xsd:decimal> ;
+	mid:YR2014 "408"^^<xsd:decimal> ;
+	mid:YR2015 "382"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/347> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Greenland" ;
+	mid:Country_Code "GRL" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/348> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Grenada" ;
+	mid:Country_Code "GRD" ;
+	mid:YR2010 "26"^^<xsd:decimal> ;
+	mid:YR2011 "25"^^<xsd:decimal> ;
+	mid:YR2012 "25"^^<xsd:decimal> ;
+	mid:YR2013 "24"^^<xsd:decimal> ;
+	mid:YR2014 "23"^^<xsd:decimal> ;
+	mid:YR2015 "21"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/349> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Guam" ;
+	mid:Country_Code "GUM" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/350> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Guatemala" ;
+	mid:Country_Code "GTM" ;
+	mid:YR2010 "11684"^^<xsd:decimal> ;
+	mid:YR2011 "11460"^^<xsd:decimal> ;
+	mid:YR2012 "11281"^^<xsd:decimal> ;
+	mid:YR2013 "11200"^^<xsd:decimal> ;
+	mid:YR2014 "11040"^^<xsd:decimal> ;
+	mid:YR2015 "10818"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/351> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Guinea" ;
+	mid:Country_Code "GIN" ;
+	mid:YR2010 "29265"^^<xsd:decimal> ;
+	mid:YR2011 "28901"^^<xsd:decimal> ;
+	mid:YR2012 "28648"^^<xsd:decimal> ;
+	mid:YR2013 "28366"^^<xsd:decimal> ;
+	mid:YR2014 "28094"^^<xsd:decimal> ;
+	mid:YR2015 "27757"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/352> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Guinea-Bissau" ;
+	mid:Country_Code "GNB" ;
+	mid:YR2010 "4352"^^<xsd:decimal> ;
+	mid:YR2011 "4239"^^<xsd:decimal> ;
+	mid:YR2012 "4142"^^<xsd:decimal> ;
+	mid:YR2013 "4059"^^<xsd:decimal> ;
+	mid:YR2014 "3977"^^<xsd:decimal> ;
+	mid:YR2015 "3898"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/353> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Guyana" ;
+	mid:Country_Code "GUY" ;
+	mid:YR2010 "364"^^<xsd:decimal> ;
+	mid:YR2011 "390"^^<xsd:decimal> ;
+	mid:YR2012 "433"^^<xsd:decimal> ;
+	mid:YR2013 "484"^^<xsd:decimal> ;
+	mid:YR2014 "525"^^<xsd:decimal> ;
+	mid:YR2015 "545"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/354> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Haiti" ;
+	mid:Country_Code "HTI" ;
+	mid:YR2010 "23398"^^<xsd:decimal> ;
+	mid:YR2011 "15350"^^<xsd:decimal> ;
+	mid:YR2012 "14856"^^<xsd:decimal> ;
+	mid:YR2013 "14312"^^<xsd:decimal> ;
+	mid:YR2014 "13827"^^<xsd:decimal> ;
+	mid:YR2015 "13407"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/355> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Heavily indebted poor countries (HIPC)" ;
+	mid:Country_Code "HPC" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/356> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "High income" ;
+	mid:Country_Code "HIC" ;
+	mid:YR2010 "106356"^^<xsd:decimal> ;
+	mid:YR2011 "103043"^^<xsd:decimal> ;
+	mid:YR2012 "100590"^^<xsd:decimal> ;
+	mid:YR2013 "97345"^^<xsd:decimal> ;
+	mid:YR2014 "94051"^^<xsd:decimal> ;
+	mid:YR2015 "91206"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/357> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Honduras" ;
+	mid:Country_Code "HND" ;
+	mid:YR2010 "3633"^^<xsd:decimal> ;
+	mid:YR2011 "3433"^^<xsd:decimal> ;
+	mid:YR2012 "3247"^^<xsd:decimal> ;
+	mid:YR2013 "3084"^^<xsd:decimal> ;
+	mid:YR2014 "2943"^^<xsd:decimal> ;
+	mid:YR2015 "2832"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/358> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Hong Kong SAR, China" ;
+	mid:Country_Code "HKG" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/359> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Hungary" ;
+	mid:Country_Code "HUN" ;
+	mid:YR2010 "561"^^<xsd:decimal> ;
+	mid:YR2011 "527"^^<xsd:decimal> ;
+	mid:YR2012 "502"^^<xsd:decimal> ;
+	mid:YR2013 "486"^^<xsd:decimal> ;
+	mid:YR2014 "466"^^<xsd:decimal> ;
+	mid:YR2015 "461"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/360> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Iceland" ;
+	mid:Country_Code "ISL" ;
+	mid:YR2010 "10"^^<xsd:decimal> ;
+	mid:YR2011 "9"^^<xsd:decimal> ;
+	mid:YR2012 "8"^^<xsd:decimal> ;
+	mid:YR2013 "7"^^<xsd:decimal> ;
+	mid:YR2014 "7"^^<xsd:decimal> ;
+	mid:YR2015 "7"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/361> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "India" ;
+	mid:Country_Code "IND" ;
+	mid:YR2010 "1225179"^^<xsd:decimal> ;
+	mid:YR2011 "1159876"^^<xsd:decimal> ;
+	mid:YR2012 "1096146"^^<xsd:decimal> ;
+	mid:YR2013 "1036927"^^<xsd:decimal> ;
+	mid:YR2014 "985575"^^<xsd:decimal> ;
+	mid:YR2015 "946304"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/362> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Indonesia" ;
+	mid:Country_Code "IDN" ;
+	mid:YR2010 "127011"^^<xsd:decimal> ;
+	mid:YR2011 "126602"^^<xsd:decimal> ;
+	mid:YR2012 "127626"^^<xsd:decimal> ;
+	mid:YR2013 "128757"^^<xsd:decimal> ;
+	mid:YR2014 "128419"^^<xsd:decimal> ;
+	mid:YR2015 "125168"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/363> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Iran, Islamic Rep." ;
+	mid:Country_Code "IRN" ;
+	mid:YR2010 "23065"^^<xsd:decimal> ;
+	mid:YR2011 "22234"^^<xsd:decimal> ;
+	mid:YR2012 "21347"^^<xsd:decimal> ;
+	mid:YR2013 "20298"^^<xsd:decimal> ;
+	mid:YR2014 "19143"^^<xsd:decimal> ;
+	mid:YR2015 "18067"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/364> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Iraq" ;
+	mid:Country_Code "IRQ" ;
+	mid:YR2010 "33135"^^<xsd:decimal> ;
+	mid:YR2011 "33197"^^<xsd:decimal> ;
+	mid:YR2012 "33233"^^<xsd:decimal> ;
+	mid:YR2013 "32905"^^<xsd:decimal> ;
+	mid:YR2014 "32607"^^<xsd:decimal> ;
+	mid:YR2015 "32258"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/365> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Ireland" ;
+	mid:Country_Code "IRL" ;
+	mid:YR2010 "265"^^<xsd:decimal> ;
+	mid:YR2011 "257"^^<xsd:decimal> ;
+	mid:YR2012 "252"^^<xsd:decimal> ;
+	mid:YR2013 "230"^^<xsd:decimal> ;
+	mid:YR2014 "215"^^<xsd:decimal> ;
+	mid:YR2015 "201"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/366> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Isle of Man" ;
+	mid:Country_Code "IMY" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/367> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Israel" ;
+	mid:Country_Code "ISR" ;
+	mid:YR2010 "574"^^<xsd:decimal> ;
+	mid:YR2011 "564"^^<xsd:decimal> ;
+	mid:YR2012 "567"^^<xsd:decimal> ;
+	mid:YR2013 "567"^^<xsd:decimal> ;
+	mid:YR2014 "577"^^<xsd:decimal> ;
+	mid:YR2015 "561"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/368> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Italy" ;
+	mid:Country_Code "ITA" ;
+	mid:YR2010 "1892"^^<xsd:decimal> ;
+	mid:YR2011 "1786"^^<xsd:decimal> ;
+	mid:YR2012 "1670"^^<xsd:decimal> ;
+	mid:YR2013 "1555"^^<xsd:decimal> ;
+	mid:YR2014 "1455"^^<xsd:decimal> ;
+	mid:YR2015 "1378"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/369> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Jamaica" ;
+	mid:Country_Code "JAM" ;
+	mid:YR2010 "725"^^<xsd:decimal> ;
+	mid:YR2011 "686"^^<xsd:decimal> ;
+	mid:YR2012 "642"^^<xsd:decimal> ;
+	mid:YR2013 "595"^^<xsd:decimal> ;
+	mid:YR2014 "555"^^<xsd:decimal> ;
+	mid:YR2015 "539"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/370> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Japan" ;
+	mid:Country_Code "JPN" ;
+	mid:YR2010 "2596"^^<xsd:decimal> ;
+	mid:YR2011 "2481"^^<xsd:decimal> ;
+	mid:YR2012 "2361"^^<xsd:decimal> ;
+	mid:YR2013 "2237"^^<xsd:decimal> ;
+	mid:YR2014 "2218"^^<xsd:decimal> ;
+	mid:YR2015 "2093"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/371> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Jordan" ;
+	mid:Country_Code "JOR" ;
+	mid:YR2010 "3261"^^<xsd:decimal> ;
+	mid:YR2011 "3302"^^<xsd:decimal> ;
+	mid:YR2012 "3323"^^<xsd:decimal> ;
+	mid:YR2013 "3312"^^<xsd:decimal> ;
+	mid:YR2014 "3257"^^<xsd:decimal> ;
+	mid:YR2015 "3176"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/372> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Kazakhstan" ;
+	mid:Country_Code "KAZ" ;
+	mid:YR2010 "7220"^^<xsd:decimal> ;
+	mid:YR2011 "6729"^^<xsd:decimal> ;
+	mid:YR2012 "6291"^^<xsd:decimal> ;
+	mid:YR2013 "5816"^^<xsd:decimal> ;
+	mid:YR2014 "5375"^^<xsd:decimal> ;
+	mid:YR2015 "4935"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/373> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Kenya" ;
+	mid:Country_Code "KEN" ;
+	mid:YR2010 "60817"^^<xsd:decimal> ;
+	mid:YR2011 "58415"^^<xsd:decimal> ;
+	mid:YR2012 "57449"^^<xsd:decimal> ;
+	mid:YR2013 "56296"^^<xsd:decimal> ;
+	mid:YR2014 "54806"^^<xsd:decimal> ;
+	mid:YR2015 "53749"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/374> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Kiribati" ;
+	mid:Country_Code "KIR" ;
+	mid:YR2010 "173"^^<xsd:decimal> ;
+	mid:YR2011 "171"^^<xsd:decimal> ;
+	mid:YR2012 "161"^^<xsd:decimal> ;
+	mid:YR2013 "146"^^<xsd:decimal> ;
+	mid:YR2014 "132"^^<xsd:decimal> ;
+	mid:YR2015 "123"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/375> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Korea, Dem. People?s Rep." ;
+	mid:Country_Code "PRK" ;
+	mid:YR2010 "8283"^^<xsd:decimal> ;
+	mid:YR2011 "8037"^^<xsd:decimal> ;
+	mid:YR2012 "7886"^^<xsd:decimal> ;
+	mid:YR2013 "7814"^^<xsd:decimal> ;
+	mid:YR2014 "7685"^^<xsd:decimal> ;
+	mid:YR2015 "7440"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/376> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Korea, Rep." ;
+	mid:Country_Code "KOR" ;
+	mid:YR2010 "1753"^^<xsd:decimal> ;
+	mid:YR2011 "1679"^^<xsd:decimal> ;
+	mid:YR2012 "1599"^^<xsd:decimal> ;
+	mid:YR2013 "1519"^^<xsd:decimal> ;
+	mid:YR2014 "1396"^^<xsd:decimal> ;
+	mid:YR2015 "1329"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/377> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Kosovo" ;
+	mid:Country_Code "KSV" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/378> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Kuwait" ;
+	mid:Country_Code "KWT" ;
+	mid:YR2010 "672"^^<xsd:decimal> ;
+	mid:YR2011 "665"^^<xsd:decimal> ;
+	mid:YR2012 "632"^^<xsd:decimal> ;
+	mid:YR2013 "588"^^<xsd:decimal> ;
+	mid:YR2014 "544"^^<xsd:decimal> ;
+	mid:YR2015 "507"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/379> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Kyrgyz Republic" ;
+	mid:Country_Code "KGZ" ;
+	mid:YR2010 "3807"^^<xsd:decimal> ;
+	mid:YR2011 "3762"^^<xsd:decimal> ;
+	mid:YR2012 "3715"^^<xsd:decimal> ;
+	mid:YR2013 "3635"^^<xsd:decimal> ;
+	mid:YR2014 "3494"^^<xsd:decimal> ;
+	mid:YR2015 "3286"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/380> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Lao PDR" ;
+	mid:Country_Code "LAO" ;
+	mid:YR2010 "10840"^^<xsd:decimal> ;
+	mid:YR2011 "10457"^^<xsd:decimal> ;
+	mid:YR2012 "10009"^^<xsd:decimal> ;
+	mid:YR2013 "9517"^^<xsd:decimal> ;
+	mid:YR2014 "9111"^^<xsd:decimal> ;
+	mid:YR2015 "8751"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/381> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Late-demographic dividend" ;
+	mid:Country_Code "LTE" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/382> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Latin America & Caribbean" ;
+	mid:Country_Code "LCN" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/383> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Latin America & Caribbean (excluding high income)" ;
+	mid:Country_Code "LAC" ;
+	mid:YR2010 "170869"^^<xsd:decimal> ;
+	mid:YR2011 "158369"^^<xsd:decimal> ;
+	mid:YR2012 "155060"^^<xsd:decimal> ;
+	mid:YR2013 "152828"^^<xsd:decimal> ;
+	mid:YR2014 "150706"^^<xsd:decimal> ;
+	mid:YR2015 "148085"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/384> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Latin America & the Caribbean (IDA & IBRD countries)" ;
+	mid:Country_Code "TLA" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/385> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Latvia" ;
+	mid:Country_Code "LVA" ;
+	mid:YR2010 "180"^^<xsd:decimal> ;
+	mid:YR2011 "160"^^<xsd:decimal> ;
+	mid:YR2012 "143"^^<xsd:decimal> ;
+	mid:YR2013 "128"^^<xsd:decimal> ;
+	mid:YR2014 "116"^^<xsd:decimal> ;
+	mid:YR2015 "109"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/386> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Least developed countries: UN classification" ;
+	mid:Country_Code "LDC" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/387> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Lebanon" ;
+	mid:Country_Code "LBN" ;
+	mid:YR2010 "427"^^<xsd:decimal> ;
+	mid:YR2011 "472"^^<xsd:decimal> ;
+	mid:YR2012 "550"^^<xsd:decimal> ;
+	mid:YR2013 "642"^^<xsd:decimal> ;
+	mid:YR2014 "705"^^<xsd:decimal> ;
+	mid:YR2015 "726"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/388> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Lesotho" ;
+	mid:Country_Code "LSO" ;
+	mid:YR2010 "4269"^^<xsd:decimal> ;
+	mid:YR2011 "4179"^^<xsd:decimal> ;
+	mid:YR2012 "4313"^^<xsd:decimal> ;
+	mid:YR2013 "4385"^^<xsd:decimal> ;
+	mid:YR2014 "4366"^^<xsd:decimal> ;
+	mid:YR2015 "4317"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/389> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Liberia" ;
+	mid:Country_Code "LBR" ;
+	mid:YR2010 "9298"^^<xsd:decimal> ;
+	mid:YR2011 "9015"^^<xsd:decimal> ;
+	mid:YR2012 "8723"^^<xsd:decimal> ;
+	mid:YR2013 "8423"^^<xsd:decimal> ;
+	mid:YR2014 "8167"^^<xsd:decimal> ;
+	mid:YR2015 "7974"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/390> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Libya" ;
+	mid:Country_Code "LBY" ;
+	mid:YR2010 "2070"^^<xsd:decimal> ;
+	mid:YR2011 "1994"^^<xsd:decimal> ;
+	mid:YR2012 "1797"^^<xsd:decimal> ;
+	mid:YR2013 "1659"^^<xsd:decimal> ;
+	mid:YR2014 "1528"^^<xsd:decimal> ;
+	mid:YR2015 "1418"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/391> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Liechtenstein" ;
+	mid:Country_Code "LIE" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/392> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Lithuania" ;
+	mid:Country_Code "LTU" ;
+	mid:YR2010 "183"^^<xsd:decimal> ;
+	mid:YR2011 "165"^^<xsd:decimal> ;
+	mid:YR2012 "150"^^<xsd:decimal> ;
+	mid:YR2013 "133"^^<xsd:decimal> ;
+	mid:YR2014 "119"^^<xsd:decimal> ;
+	mid:YR2015 "107"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/393> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Low & middle income" ;
+	mid:Country_Code "LMY" ;
+	mid:YR2010 "5006828"^^<xsd:decimal> ;
+	mid:YR2011 "4853223"^^<xsd:decimal> ;
+	mid:YR2012 "4714164"^^<xsd:decimal> ;
+	mid:YR2013 "4588815"^^<xsd:decimal> ;
+	mid:YR2014 "4467823"^^<xsd:decimal> ;
+	mid:YR2015 "4359129"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/394> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Low income" ;
+	mid:Country_Code "LIC" ;
+	mid:YR2010 "1293803"^^<xsd:decimal> ;
+	mid:YR2011 "1256461"^^<xsd:decimal> ;
+	mid:YR2012 "1226052"^^<xsd:decimal> ;
+	mid:YR2013 "1206571"^^<xsd:decimal> ;
+	mid:YR2014 "1187117"^^<xsd:decimal> ;
+	mid:YR2015 "1172758"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/395> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Lower middle income" ;
+	mid:Country_Code "LMC" ;
+	mid:YR2010 "3069891"^^<xsd:decimal> ;
+	mid:YR2011 "2977653"^^<xsd:decimal> ;
+	mid:YR2012 "2889574"^^<xsd:decimal> ;
+	mid:YR2013 "2804261"^^<xsd:decimal> ;
+	mid:YR2014 "2722313"^^<xsd:decimal> ;
+	mid:YR2015 "2647042"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/396> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Luxembourg" ;
+	mid:Country_Code "LUX" ;
+	mid:YR2010 "11"^^<xsd:decimal> ;
+	mid:YR2011 "11"^^<xsd:decimal> ;
+	mid:YR2012 "10"^^<xsd:decimal> ;
+	mid:YR2013 "10"^^<xsd:decimal> ;
+	mid:YR2014 "10"^^<xsd:decimal> ;
+	mid:YR2015 "10"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/397> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Macao SAR, China" ;
+	mid:Country_Code "MAC" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/398> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Macedonia, FYR" ;
+	mid:Country_Code "MKD" ;
+	mid:YR2010 "187"^^<xsd:decimal> ;
+	mid:YR2011 "164"^^<xsd:decimal> ;
+	mid:YR2012 "147"^^<xsd:decimal> ;
+	mid:YR2013 "136"^^<xsd:decimal> ;
+	mid:YR2014 "127"^^<xsd:decimal> ;
+	mid:YR2015 "119"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/399> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Madagascar" ;
+	mid:Country_Code "MDG" ;
+	mid:YR2010 "30814"^^<xsd:decimal> ;
+	mid:YR2011 "30388"^^<xsd:decimal> ;
+	mid:YR2012 "30097"^^<xsd:decimal> ;
+	mid:YR2013 "29858"^^<xsd:decimal> ;
+	mid:YR2014 "29665"^^<xsd:decimal> ;
+	mid:YR2015 "29429"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/400> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Malawi" ;
+	mid:Country_Code "MWI" ;
+	mid:YR2010 "34380"^^<xsd:decimal> ;
+	mid:YR2011 "32561"^^<xsd:decimal> ;
+	mid:YR2012 "30601"^^<xsd:decimal> ;
+	mid:YR2013 "29002"^^<xsd:decimal> ;
+	mid:YR2014 "27902"^^<xsd:decimal> ;
+	mid:YR2015 "27260"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/401> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Malaysia" ;
+	mid:Country_Code "MYS" ;
+	mid:YR2010 "2911"^^<xsd:decimal> ;
+	mid:YR2011 "2985"^^<xsd:decimal> ;
+	mid:YR2012 "3125"^^<xsd:decimal> ;
+	mid:YR2013 "3237"^^<xsd:decimal> ;
+	mid:YR2014 "3310"^^<xsd:decimal> ;
+	mid:YR2015 "3308"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/402> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Maldives" ;
+	mid:Country_Code "MDV" ;
+	mid:YR2010 "81"^^<xsd:decimal> ;
+	mid:YR2011 "75"^^<xsd:decimal> ;
+	mid:YR2012 "70"^^<xsd:decimal> ;
+	mid:YR2013 "65"^^<xsd:decimal> ;
+	mid:YR2014 "61"^^<xsd:decimal> ;
+	mid:YR2015 "58"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/403> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Mali" ;
+	mid:Country_Code "MLI" ;
+	mid:YR2010 "56161"^^<xsd:decimal> ;
+	mid:YR2011 "55775"^^<xsd:decimal> ;
+	mid:YR2012 "55217"^^<xsd:decimal> ;
+	mid:YR2013 "54679"^^<xsd:decimal> ;
+	mid:YR2014 "54096"^^<xsd:decimal> ;
+	mid:YR2015 "53880"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/404> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Malta" ;
+	mid:Country_Code "MLT" ;
+	mid:YR2010 "22"^^<xsd:decimal> ;
+	mid:YR2011 "22"^^<xsd:decimal> ;
+	mid:YR2012 "21"^^<xsd:decimal> ;
+	mid:YR2013 "20"^^<xsd:decimal> ;
+	mid:YR2014 "19"^^<xsd:decimal> ;
+	mid:YR2015 "19"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/405> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Marshall Islands" ;
+	mid:Country_Code "MHL" ;
+	mid:YR2010 "50"^^<xsd:decimal> ;
+	mid:YR2011 "49"^^<xsd:decimal> ;
+	mid:YR2012 "47"^^<xsd:decimal> ;
+	mid:YR2013 "45"^^<xsd:decimal> ;
+	mid:YR2014 "43"^^<xsd:decimal> ;
+	mid:YR2015 "40"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/406> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Mauritania" ;
+	mid:Country_Code "MRT" ;
+	mid:YR2010 "8596"^^<xsd:decimal> ;
+	mid:YR2011 "8604"^^<xsd:decimal> ;
+	mid:YR2012 "8581"^^<xsd:decimal> ;
+	mid:YR2013 "8579"^^<xsd:decimal> ;
+	mid:YR2014 "8546"^^<xsd:decimal> ;
+	mid:YR2015 "8523"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/407> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Mauritius" ;
+	mid:Country_Code "MUS" ;
+	mid:YR2010 "189"^^<xsd:decimal> ;
+	mid:YR2011 "179"^^<xsd:decimal> ;
+	mid:YR2012 "174"^^<xsd:decimal> ;
+	mid:YR2013 "173"^^<xsd:decimal> ;
+	mid:YR2014 "171"^^<xsd:decimal> ;
+	mid:YR2015 "167"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/408> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Mexico" ;
+	mid:Country_Code "MEX" ;
+	mid:YR2010 "33891"^^<xsd:decimal> ;
+	mid:YR2011 "32579"^^<xsd:decimal> ;
+	mid:YR2012 "31044"^^<xsd:decimal> ;
+	mid:YR2013 "29719"^^<xsd:decimal> ;
+	mid:YR2014 "28319"^^<xsd:decimal> ;
+	mid:YR2015 "26820"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/409> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Micronesia, Fed. Sts." ;
+	mid:Country_Code "FSM" ;
+	mid:YR2010 "81"^^<xsd:decimal> ;
+	mid:YR2011 "78"^^<xsd:decimal> ;
+	mid:YR2012 "76"^^<xsd:decimal> ;
+	mid:YR2013 "74"^^<xsd:decimal> ;
+	mid:YR2014 "72"^^<xsd:decimal> ;
+	mid:YR2015 "71"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/410> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Middle East & North Africa" ;
+	mid:Country_Code "MEA" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/411> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Middle East & North Africa (excluding high income)" ;
+	mid:Country_Code "MNA" ;
+	mid:YR2010 "200422"^^<xsd:decimal> ;
+	mid:YR2011 "199137"^^<xsd:decimal> ;
+	mid:YR2012 "198789"^^<xsd:decimal> ;
+	mid:YR2013 "197442"^^<xsd:decimal> ;
+	mid:YR2014 "194426"^^<xsd:decimal> ;
+	mid:YR2015 "189425"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/412> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Middle East & North Africa (IDA & IBRD countries)" ;
+	mid:Country_Code "TMN" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/413> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Middle income" ;
+	mid:Country_Code "MIC" ;
+	mid:YR2010 "3713025"^^<xsd:decimal> ;
+	mid:YR2011 "3596762"^^<xsd:decimal> ;
+	mid:YR2012 "3488112"^^<xsd:decimal> ;
+	mid:YR2013 "3382244"^^<xsd:decimal> ;
+	mid:YR2014 "3280706"^^<xsd:decimal> ;
+	mid:YR2015 "3186371"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/414> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Moldova" ;
+	mid:Country_Code "MDA" ;
+	mid:YR2010 "697"^^<xsd:decimal> ;
+	mid:YR2011 "686"^^<xsd:decimal> ;
+	mid:YR2012 "667"^^<xsd:decimal> ;
+	mid:YR2013 "644"^^<xsd:decimal> ;
+	mid:YR2014 "618"^^<xsd:decimal> ;
+	mid:YR2015 "587"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/415> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Monaco" ;
+	mid:Country_Code "MCO" ;
+	mid:YR2010 "0"^^<xsd:decimal> ;
+	mid:YR2011 "1"^^<xsd:decimal> ;
+	mid:YR2012 "1"^^<xsd:decimal> ;
+	mid:YR2013 "1"^^<xsd:decimal> ;
+	mid:YR2014 "2"^^<xsd:decimal> ;
+	mid:YR2015 "2"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/416> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Mongolia" ;
+	mid:Country_Code "MNG" ;
+	mid:YR2010 "1670"^^<xsd:decimal> ;
+	mid:YR2011 "1621"^^<xsd:decimal> ;
+	mid:YR2012 "1570"^^<xsd:decimal> ;
+	mid:YR2013 "1504"^^<xsd:decimal> ;
+	mid:YR2014 "1432"^^<xsd:decimal> ;
+	mid:YR2015 "1348"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/417> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Montenegro" ;
+	mid:Country_Code "MNE" ;
+	mid:YR2010 "52"^^<xsd:decimal> ;
+	mid:YR2011 "46"^^<xsd:decimal> ;
+	mid:YR2012 "41"^^<xsd:decimal> ;
+	mid:YR2013 "36"^^<xsd:decimal> ;
+	mid:YR2014 "33"^^<xsd:decimal> ;
+	mid:YR2015 "30"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/418> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Morocco" ;
+	mid:Country_Code "MAR" ;
+	mid:YR2010 "19654"^^<xsd:decimal> ;
+	mid:YR2011 "19263"^^<xsd:decimal> ;
+	mid:YR2012 "18868"^^<xsd:decimal> ;
+	mid:YR2013 "18428"^^<xsd:decimal> ;
+	mid:YR2014 "17823"^^<xsd:decimal> ;
+	mid:YR2015 "17043"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/419> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Mozambique" ;
+	mid:Country_Code "MOZ" ;
+	mid:YR2010 "69913"^^<xsd:decimal> ;
+	mid:YR2011 "67331"^^<xsd:decimal> ;
+	mid:YR2012 "63949"^^<xsd:decimal> ;
+	mid:YR2013 "62362"^^<xsd:decimal> ;
+	mid:YR2014 "60985"^^<xsd:decimal> ;
+	mid:YR2015 "60138"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/420> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Myanmar" ;
+	mid:Country_Code "MMR" ;
+	mid:YR2010 "44646"^^<xsd:decimal> ;
+	mid:YR2011 "42234"^^<xsd:decimal> ;
+	mid:YR2012 "40219"^^<xsd:decimal> ;
+	mid:YR2013 "38559"^^<xsd:decimal> ;
+	mid:YR2014 "37267"^^<xsd:decimal> ;
+	mid:YR2015 "36176"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/421> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Namibia" ;
+	mid:Country_Code "NAM" ;
+	mid:YR2010 "2399"^^<xsd:decimal> ;
+	mid:YR2011 "2379"^^<xsd:decimal> ;
+	mid:YR2012 "2438"^^<xsd:decimal> ;
+	mid:YR2013 "2445"^^<xsd:decimal> ;
+	mid:YR2014 "2451"^^<xsd:decimal> ;
+	mid:YR2015 "2447"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/422> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Nauru" ;
+	mid:Country_Code "NRU" ;
+	mid:YR2010 "5"^^<xsd:decimal> ;
+	mid:YR2011 "5"^^<xsd:decimal> ;
+	mid:YR2012 "5"^^<xsd:decimal> ;
+	mid:YR2013 "5"^^<xsd:decimal> ;
+	mid:YR2014 "4"^^<xsd:decimal> ;
+	mid:YR2015 "4"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/423> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Nepal" ;
+	mid:Country_Code "NPL" ;
+	mid:YR2010 "22799"^^<xsd:decimal> ;
+	mid:YR2011 "21071"^^<xsd:decimal> ;
+	mid:YR2012 "19450"^^<xsd:decimal> ;
+	mid:YR2013 "17990"^^<xsd:decimal> ;
+	mid:YR2014 "16885"^^<xsd:decimal> ;
+	mid:YR2015 "16144"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/424> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Netherlands" ;
+	mid:Country_Code "NLD" ;
+	mid:YR2010 "634"^^<xsd:decimal> ;
+	mid:YR2011 "612"^^<xsd:decimal> ;
+	mid:YR2012 "599"^^<xsd:decimal> ;
+	mid:YR2013 "575"^^<xsd:decimal> ;
+	mid:YR2014 "586"^^<xsd:decimal> ;
+	mid:YR2015 "576"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/425> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "New Caledonia" ;
+	mid:Country_Code "NCL" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/426> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "New Zealand" ;
+	mid:Country_Code "NZL" ;
+	mid:YR2010 "342"^^<xsd:decimal> ;
+	mid:YR2011 "333"^^<xsd:decimal> ;
+	mid:YR2012 "319"^^<xsd:decimal> ;
+	mid:YR2013 "309"^^<xsd:decimal> ;
+	mid:YR2014 "293"^^<xsd:decimal> ;
+	mid:YR2015 "280"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/427> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Nicaragua" ;
+	mid:Country_Code "NIC" ;
+	mid:YR2010 "2878"^^<xsd:decimal> ;
+	mid:YR2011 "2753"^^<xsd:decimal> ;
+	mid:YR2012 "2614"^^<xsd:decimal> ;
+	mid:YR2013 "2484"^^<xsd:decimal> ;
+	mid:YR2014 "2360"^^<xsd:decimal> ;
+	mid:YR2015 "2251"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/428> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Niger" ;
+	mid:Country_Code "NER" ;
+	mid:YR2010 "52273"^^<xsd:decimal> ;
+	mid:YR2011 "52166"^^<xsd:decimal> ;
+	mid:YR2012 "52316"^^<xsd:decimal> ;
+	mid:YR2013 "52711"^^<xsd:decimal> ;
+	mid:YR2014 "53439"^^<xsd:decimal> ;
+	mid:YR2015 "54226"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/429> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Nigeria" ;
+	mid:Country_Code "NGA" ;
+	mid:YR2010 "513166"^^<xsd:decimal> ;
+	mid:YR2011 "506889"^^<xsd:decimal> ;
+	mid:YR2012 "501384"^^<xsd:decimal> ;
+	mid:YR2013 "496561"^^<xsd:decimal> ;
+	mid:YR2014 "490812"^^<xsd:decimal> ;
+	mid:YR2015 "484368"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/430> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "North America" ;
+	mid:Country_Code "NAC" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/431> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Northern Mariana Islands" ;
+	mid:Country_Code "MNP" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/432> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Norway" ;
+	mid:Country_Code "NOR" ;
+	mid:YR2010 "168"^^<xsd:decimal> ;
+	mid:YR2011 "161"^^<xsd:decimal> ;
+	mid:YR2012 "146"^^<xsd:decimal> ;
+	mid:YR2013 "142"^^<xsd:decimal> ;
+	mid:YR2014 "134"^^<xsd:decimal> ;
+	mid:YR2015 "122"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/433> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "OECD members" ;
+	mid:Country_Code "OED" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/434> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Oman" ;
+	mid:Country_Code "OMN" ;
+	mid:YR2010 "699"^^<xsd:decimal> ;
+	mid:YR2011 "723"^^<xsd:decimal> ;
+	mid:YR2012 "758"^^<xsd:decimal> ;
+	mid:YR2013 "792"^^<xsd:decimal> ;
+	mid:YR2014 "812"^^<xsd:decimal> ;
+	mid:YR2015 "804"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/435> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Other small states" ;
+	mid:Country_Code "OSS" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/436> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Pacific island small states" ;
+	mid:Country_Code "PSS" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/437> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Pakistan" ;
+	mid:Country_Code "PAK" ;
+	mid:YR2010 "382955"^^<xsd:decimal> ;
+	mid:YR2011 "382001"^^<xsd:decimal> ;
+	mid:YR2012 "376932"^^<xsd:decimal> ;
+	mid:YR2013 "369327"^^<xsd:decimal> ;
+	mid:YR2014 "359601"^^<xsd:decimal> ;
+	mid:YR2015 "350600"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/438> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Palau" ;
+	mid:Country_Code "PLW" ;
+	mid:YR2010 "4"^^<xsd:decimal> ;
+	mid:YR2011 "4"^^<xsd:decimal> ;
+	mid:YR2012 "4"^^<xsd:decimal> ;
+	mid:YR2013 "4"^^<xsd:decimal> ;
+	mid:YR2014 "4"^^<xsd:decimal> ;
+	mid:YR2015 "4"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/439> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Panama" ;
+	mid:Country_Code "PAN" ;
+	mid:YR2010 "1287"^^<xsd:decimal> ;
+	mid:YR2011 "1259"^^<xsd:decimal> ;
+	mid:YR2012 "1221"^^<xsd:decimal> ;
+	mid:YR2013 "1178"^^<xsd:decimal> ;
+	mid:YR2014 "1141"^^<xsd:decimal> ;
+	mid:YR2015 "1097"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/440> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Papua New Guinea" ;
+	mid:Country_Code "PNG" ;
+	mid:YR2010 "10372"^^<xsd:decimal> ;
+	mid:YR2011 "10204"^^<xsd:decimal> ;
+	mid:YR2012 "9970"^^<xsd:decimal> ;
+	mid:YR2013 "9759"^^<xsd:decimal> ;
+	mid:YR2014 "9495"^^<xsd:decimal> ;
+	mid:YR2015 "9284"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/441> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Paraguay" ;
+	mid:Country_Code "PRY" ;
+	mid:YR2010 "2941"^^<xsd:decimal> ;
+	mid:YR2011 "2845"^^<xsd:decimal> ;
+	mid:YR2012 "2719"^^<xsd:decimal> ;
+	mid:YR2013 "2581"^^<xsd:decimal> ;
+	mid:YR2014 "2468"^^<xsd:decimal> ;
+	mid:YR2015 "2366"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/442> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Peru" ;
+	mid:Country_Code "PER" ;
+	mid:YR2010 "9855"^^<xsd:decimal> ;
+	mid:YR2011 "9473"^^<xsd:decimal> ;
+	mid:YR2012 "9127"^^<xsd:decimal> ;
+	mid:YR2013 "8784"^^<xsd:decimal> ;
+	mid:YR2014 "8469"^^<xsd:decimal> ;
+	mid:YR2015 "8164"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/443> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Philippines" ;
+	mid:Country_Code "PHL" ;
+	mid:YR2010 "56575"^^<xsd:decimal> ;
+	mid:YR2011 "55434"^^<xsd:decimal> ;
+	mid:YR2012 "54691"^^<xsd:decimal> ;
+	mid:YR2013 "53910"^^<xsd:decimal> ;
+	mid:YR2014 "53319"^^<xsd:decimal> ;
+	mid:YR2015 "52300"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/444> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Poland" ;
+	mid:Country_Code "POL" ;
+	mid:YR2010 "2267"^^<xsd:decimal> ;
+	mid:YR2011 "2096"^^<xsd:decimal> ;
+	mid:YR2012 "1968"^^<xsd:decimal> ;
+	mid:YR2013 "1815"^^<xsd:decimal> ;
+	mid:YR2014 "1709"^^<xsd:decimal> ;
+	mid:YR2015 "1629"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/445> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Portugal" ;
+	mid:Country_Code "PRT" ;
+	mid:YR2010 "296"^^<xsd:decimal> ;
+	mid:YR2011 "287"^^<xsd:decimal> ;
+	mid:YR2012 "279"^^<xsd:decimal> ;
+	mid:YR2013 "272"^^<xsd:decimal> ;
+	mid:YR2014 "257"^^<xsd:decimal> ;
+	mid:YR2015 "251"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/446> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Post-demographic dividend" ;
+	mid:Country_Code "PST" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/447> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Pre-demographic dividend" ;
+	mid:Country_Code "PRE" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/448> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Puerto Rico" ;
+	mid:Country_Code "PRI" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/449> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Qatar" ;
+	mid:Country_Code "QAT" ;
+	mid:YR2010 "136"^^<xsd:decimal> ;
+	mid:YR2011 "153"^^<xsd:decimal> ;
+	mid:YR2012 "170"^^<xsd:decimal> ;
+	mid:YR2013 "186"^^<xsd:decimal> ;
+	mid:YR2014 "194"^^<xsd:decimal> ;
+	mid:YR2015 "195"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/450> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Romania" ;
+	mid:Country_Code "ROM" ;
+	mid:YR2010 "2626"^^<xsd:decimal> ;
+	mid:YR2011 "2411"^^<xsd:decimal> ;
+	mid:YR2012 "2160"^^<xsd:decimal> ;
+	mid:YR2013 "1941"^^<xsd:decimal> ;
+	mid:YR2014 "1752"^^<xsd:decimal> ;
+	mid:YR2015 "1614"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/451> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Russian Federation" ;
+	mid:Country_Code "RUS" ;
+	mid:YR2010 "16884"^^<xsd:decimal> ;
+	mid:YR2011 "16712"^^<xsd:decimal> ;
+	mid:YR2012 "16634"^^<xsd:decimal> ;
+	mid:YR2013 "16659"^^<xsd:decimal> ;
+	mid:YR2014 "16412"^^<xsd:decimal> ;
+	mid:YR2015 "15989"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/452> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Rwanda" ;
+	mid:Country_Code "RWA" ;
+	mid:YR2010 "16288"^^<xsd:decimal> ;
+	mid:YR2011 "14751"^^<xsd:decimal> ;
+	mid:YR2012 "13368"^^<xsd:decimal> ;
+	mid:YR2013 "12122"^^<xsd:decimal> ;
+	mid:YR2014 "11123"^^<xsd:decimal> ;
+	mid:YR2015 "10445"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/453> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Samoa" ;
+	mid:Country_Code "WSM" ;
+	mid:YR2010 "89"^^<xsd:decimal> ;
+	mid:YR2011 "87"^^<xsd:decimal> ;
+	mid:YR2012 "82"^^<xsd:decimal> ;
+	mid:YR2013 "77"^^<xsd:decimal> ;
+	mid:YR2014 "72"^^<xsd:decimal> ;
+	mid:YR2015 "68"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/454> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "San Marino" ;
+	mid:Country_Code "SMR" ;
+	mid:YR2010 "1"^^<xsd:decimal> ;
+	mid:YR2011 "1"^^<xsd:decimal> ;
+	mid:YR2012 "1"^^<xsd:decimal> ;
+	mid:YR2013 "1"^^<xsd:decimal> ;
+	mid:YR2014 "1"^^<xsd:decimal> ;
+	mid:YR2015 "1"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/455> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Sao Tome and Principe" ;
+	mid:Country_Code "STP" ;
+	mid:YR2010 "228"^^<xsd:decimal> ;
+	mid:YR2011 "225"^^<xsd:decimal> ;
+	mid:YR2012 "223"^^<xsd:decimal> ;
+	mid:YR2013 "224"^^<xsd:decimal> ;
+	mid:YR2014 "222"^^<xsd:decimal> ;
+	mid:YR2015 "219"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/456> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Saudi Arabia" ;
+	mid:Country_Code "SAU" ;
+	mid:YR2010 "9260"^^<xsd:decimal> ;
+	mid:YR2011 "9019"^^<xsd:decimal> ;
+	mid:YR2012 "8766"^^<xsd:decimal> ;
+	mid:YR2013 "8391"^^<xsd:decimal> ;
+	mid:YR2014 "8052"^^<xsd:decimal> ;
+	mid:YR2015 "7708"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/457> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Senegal" ;
+	mid:Country_Code "SEN" ;
+	mid:YR2010 "22643"^^<xsd:decimal> ;
+	mid:YR2011 "22803"^^<xsd:decimal> ;
+	mid:YR2012 "23158"^^<xsd:decimal> ;
+	mid:YR2013 "23585"^^<xsd:decimal> ;
+	mid:YR2014 "23936"^^<xsd:decimal> ;
+	mid:YR2015 "24123"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/458> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Serbia" ;
+	mid:Country_Code "SRB" ;
+	mid:YR2010 "600"^^<xsd:decimal> ;
+	mid:YR2011 "583"^^<xsd:decimal> ;
+	mid:YR2012 "567"^^<xsd:decimal> ;
+	mid:YR2013 "552"^^<xsd:decimal> ;
+	mid:YR2014 "555"^^<xsd:decimal> ;
+	mid:YR2015 "547"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/459> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Seychelles" ;
+	mid:Country_Code "SYC" ;
+	mid:YR2010 "21"^^<xsd:decimal> ;
+	mid:YR2011 "21"^^<xsd:decimal> ;
+	mid:YR2012 "21"^^<xsd:decimal> ;
+	mid:YR2013 "21"^^<xsd:decimal> ;
+	mid:YR2014 "20"^^<xsd:decimal> ;
+	mid:YR2015 "20"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/460> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Sierra Leone" ;
+	mid:Country_Code "SLE" ;
+	mid:YR2010 "23695"^^<xsd:decimal> ;
+	mid:YR2011 "22600"^^<xsd:decimal> ;
+	mid:YR2012 "21512"^^<xsd:decimal> ;
+	mid:YR2013 "20490"^^<xsd:decimal> ;
+	mid:YR2014 "19645"^^<xsd:decimal> ;
+	mid:YR2015 "19014"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/461> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Singapore" ;
+	mid:Country_Code "SGP" ;
+	mid:YR2010 "113"^^<xsd:decimal> ;
+	mid:YR2011 "115"^^<xsd:decimal> ;
+	mid:YR2012 "116"^^<xsd:decimal> ;
+	mid:YR2013 "117"^^<xsd:decimal> ;
+	mid:YR2014 "118"^^<xsd:decimal> ;
+	mid:YR2015 "112"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/462> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Sint Maarten (Dutch part)" ;
+	mid:Country_Code "SXM" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/463> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Slovak Republic" ;
+	mid:Country_Code "SVK" ;
+	mid:YR2010 "423"^^<xsd:decimal> ;
+	mid:YR2011 "406"^^<xsd:decimal> ;
+	mid:YR2012 "379"^^<xsd:decimal> ;
+	mid:YR2013 "356"^^<xsd:decimal> ;
+	mid:YR2014 "335"^^<xsd:decimal> ;
+	mid:YR2015 "314"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/464> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Slovenia" ;
+	mid:Country_Code "SVN" ;
+	mid:YR2010 "60"^^<xsd:decimal> ;
+	mid:YR2011 "59"^^<xsd:decimal> ;
+	mid:YR2012 "55"^^<xsd:decimal> ;
+	mid:YR2013 "52"^^<xsd:decimal> ;
+	mid:YR2014 "49"^^<xsd:decimal> ;
+	mid:YR2015 "46"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/465> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Small states" ;
+	mid:Country_Code "SST" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/466> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Solomon Islands" ;
+	mid:Country_Code "SLB" ;
+	mid:YR2010 "452"^^<xsd:decimal> ;
+	mid:YR2011 "444"^^<xsd:decimal> ;
+	mid:YR2012 "433"^^<xsd:decimal> ;
+	mid:YR2013 "421"^^<xsd:decimal> ;
+	mid:YR2014 "407"^^<xsd:decimal> ;
+	mid:YR2015 "395"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/467> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Somalia" ;
+	mid:Country_Code "SOM" ;
+	mid:YR2010 "42129"^^<xsd:decimal> ;
+	mid:YR2011 "41278"^^<xsd:decimal> ;
+	mid:YR2012 "40260"^^<xsd:decimal> ;
+	mid:YR2013 "39191"^^<xsd:decimal> ;
+	mid:YR2014 "38236"^^<xsd:decimal> ;
+	mid:YR2015 "37786"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/468> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "South Africa" ;
+	mid:Country_Code "ZAF" ;
+	mid:YR2010 "47579"^^<xsd:decimal> ;
+	mid:YR2011 "45371"^^<xsd:decimal> ;
+	mid:YR2012 "43148"^^<xsd:decimal> ;
+	mid:YR2013 "39074"^^<xsd:decimal> ;
+	mid:YR2014 "36088"^^<xsd:decimal> ;
+	mid:YR2015 "34078"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/469> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "South Asia" ;
+	mid:Country_Code "SAS" ;
+	mid:YR2010 "1839905"^^<xsd:decimal> ;
+	mid:YR2011 "1761762"^^<xsd:decimal> ;
+	mid:YR2012 "1682208"^^<xsd:decimal> ;
+	mid:YR2013 "1605486"^^<xsd:decimal> ;
+	mid:YR2014 "1536519"^^<xsd:decimal> ;
+	mid:YR2015 "1480938"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/470> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "South Asia (IDA & IBRD)" ;
+	mid:Country_Code "TSA" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/471> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "South Sudan" ;
+	mid:Country_Code "SSD" ;
+	mid:YR2010 "26385"^^<xsd:decimal> ;
+	mid:YR2011 "26435"^^<xsd:decimal> ;
+	mid:YR2012 "26426"^^<xsd:decimal> ;
+	mid:YR2013 "26335"^^<xsd:decimal> ;
+	mid:YR2014 "26144"^^<xsd:decimal> ;
+	mid:YR2015 "25942"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/472> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Spain" ;
+	mid:Country_Code "ESP" ;
+	mid:YR2010 "1905"^^<xsd:decimal> ;
+	mid:YR2011 "1786"^^<xsd:decimal> ;
+	mid:YR2012 "1637"^^<xsd:decimal> ;
+	mid:YR2013 "1524"^^<xsd:decimal> ;
+	mid:YR2014 "1390"^^<xsd:decimal> ;
+	mid:YR2015 "1299"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/473> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Sri Lanka" ;
+	mid:Country_Code "LKA" ;
+	mid:YR2010 "3369"^^<xsd:decimal> ;
+	mid:YR2011 "3179"^^<xsd:decimal> ;
+	mid:YR2012 "3014"^^<xsd:decimal> ;
+	mid:YR2013 "2851"^^<xsd:decimal> ;
+	mid:YR2014 "2738"^^<xsd:decimal> ;
+	mid:YR2015 "2620"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/474> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "St. Kitts and Nevis" ;
+	mid:Country_Code "KNA" ;
+	mid:YR2010 "10"^^<xsd:decimal> ;
+	mid:YR2011 "9"^^<xsd:decimal> ;
+	mid:YR2012 "9"^^<xsd:decimal> ;
+	mid:YR2013 "9"^^<xsd:decimal> ;
+	mid:YR2014 "8"^^<xsd:decimal> ;
+	mid:YR2015 "8"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/475> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "St. Lucia" ;
+	mid:Country_Code "LCA" ;
+	mid:YR2010 "40"^^<xsd:decimal> ;
+	mid:YR2011 "40"^^<xsd:decimal> ;
+	mid:YR2012 "39"^^<xsd:decimal> ;
+	mid:YR2013 "38"^^<xsd:decimal> ;
+	mid:YR2014 "37"^^<xsd:decimal> ;
+	mid:YR2015 "36"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/476> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "St. Martin (French part)" ;
+	mid:Country_Code "MAF" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/477> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "St. Vincent and the Grenadines" ;
+	mid:Country_Code "VCT" ;
+	mid:YR2010 "37"^^<xsd:decimal> ;
+	mid:YR2011 "35"^^<xsd:decimal> ;
+	mid:YR2012 "33"^^<xsd:decimal> ;
+	mid:YR2013 "31"^^<xsd:decimal> ;
+	mid:YR2014 "29"^^<xsd:decimal> ;
+	mid:YR2015 "27"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/478> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Sub-Saharan Africa" ;
+	mid:Country_Code "SSF" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/479> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Sub-Saharan Africa (excluding high income)" ;
+	mid:Country_Code "SSA" ;
+	mid:YR2010 "2165565"^^<xsd:decimal> ;
+	mid:YR2011 "2128160"^^<xsd:decimal> ;
+	mid:YR2012 "2092508"^^<xsd:decimal> ;
+	mid:YR2013 "2065621"^^<xsd:decimal> ;
+	mid:YR2014 "2038190"^^<xsd:decimal> ;
+	mid:YR2015 "2014925"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/480> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Sub-Saharan Africa (IDA & IBRD countries)" ;
+	mid:Country_Code "TSS" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/481> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Sudan" ;
+	mid:Country_Code "SDN" ;
+	mid:YR2010 "64615"^^<xsd:decimal> ;
+	mid:YR2011 "63822"^^<xsd:decimal> ;
+	mid:YR2012 "63157"^^<xsd:decimal> ;
+	mid:YR2013 "62461"^^<xsd:decimal> ;
+	mid:YR2014 "61939"^^<xsd:decimal> ;
+	mid:YR2015 "61285"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/482> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Suriname" ;
+	mid:Country_Code "SUR" ;
+	mid:YR2010 "223"^^<xsd:decimal> ;
+	mid:YR2011 "215"^^<xsd:decimal> ;
+	mid:YR2012 "208"^^<xsd:decimal> ;
+	mid:YR2013 "200"^^<xsd:decimal> ;
+	mid:YR2014 "192"^^<xsd:decimal> ;
+	mid:YR2015 "186"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/483> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Swaziland" ;
+	mid:Country_Code "SWZ" ;
+	mid:YR2010 "2158"^^<xsd:decimal> ;
+	mid:YR2011 "1965"^^<xsd:decimal> ;
+	mid:YR2012 "1895"^^<xsd:decimal> ;
+	mid:YR2013 "1781"^^<xsd:decimal> ;
+	mid:YR2014 "1682"^^<xsd:decimal> ;
+	mid:YR2015 "1631"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/484> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Sweden" ;
+	mid:Country_Code "SWE" ;
+	mid:YR2010 "278"^^<xsd:decimal> ;
+	mid:YR2011 "264"^^<xsd:decimal> ;
+	mid:YR2012 "264"^^<xsd:decimal> ;
+	mid:YR2013 "265"^^<xsd:decimal> ;
+	mid:YR2014 "267"^^<xsd:decimal> ;
+	mid:YR2015 "271"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/485> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Switzerland" ;
+	mid:Country_Code "CHE" ;
+	mid:YR2010 "315"^^<xsd:decimal> ;
+	mid:YR2011 "312"^^<xsd:decimal> ;
+	mid:YR2012 "307"^^<xsd:decimal> ;
+	mid:YR2013 "302"^^<xsd:decimal> ;
+	mid:YR2014 "296"^^<xsd:decimal> ;
+	mid:YR2015 "291"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/486> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Syrian Arab Republic" ;
+	mid:Country_Code "SYR" ;
+	mid:YR2010 "7010"^^<xsd:decimal> ;
+	mid:YR2011 "6706"^^<xsd:decimal> ;
+	mid:YR2012 "6296"^^<xsd:decimal> ;
+	mid:YR2013 "5656"^^<xsd:decimal> ;
+	mid:YR2014 "5143"^^<xsd:decimal> ;
+	mid:YR2015 "4708"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/487> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Tajikistan" ;
+	mid:Country_Code "TJK" ;
+	mid:YR2010 "10244"^^<xsd:decimal> ;
+	mid:YR2011 "10395"^^<xsd:decimal> ;
+	mid:YR2012 "10542"^^<xsd:decimal> ;
+	mid:YR2013 "10598"^^<xsd:decimal> ;
+	mid:YR2014 "10521"^^<xsd:decimal> ;
+	mid:YR2015 "10293"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/488> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Tanzania" ;
+	mid:Country_Code "TZA" ;
+	mid:YR2010 "75614"^^<xsd:decimal> ;
+	mid:YR2011 "74016"^^<xsd:decimal> ;
+	mid:YR2012 "73236"^^<xsd:decimal> ;
+	mid:YR2013 "73156"^^<xsd:decimal> ;
+	mid:YR2014 "72398"^^<xsd:decimal> ;
+	mid:YR2015 "72069"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/489> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Thailand" ;
+	mid:Country_Code "THA" ;
+	mid:YR2010 "9844"^^<xsd:decimal> ;
+	mid:YR2011 "9327"^^<xsd:decimal> ;
+	mid:YR2012 "8934"^^<xsd:decimal> ;
+	mid:YR2013 "8555"^^<xsd:decimal> ;
+	mid:YR2014 "8228"^^<xsd:decimal> ;
+	mid:YR2015 "7778"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/490> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Timor-Leste" ;
+	mid:Country_Code "TMP" ;
+	mid:YR2010 "1597"^^<xsd:decimal> ;
+	mid:YR2011 "1738"^^<xsd:decimal> ;
+	mid:YR2012 "1943"^^<xsd:decimal> ;
+	mid:YR2013 "2149"^^<xsd:decimal> ;
+	mid:YR2014 "2290"^^<xsd:decimal> ;
+	mid:YR2015 "2324"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/491> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Togo" ;
+	mid:Country_Code "TGO" ;
+	mid:YR2010 "13972"^^<xsd:decimal> ;
+	mid:YR2011 "13816"^^<xsd:decimal> ;
+	mid:YR2012 "13638"^^<xsd:decimal> ;
+	mid:YR2013 "13424"^^<xsd:decimal> ;
+	mid:YR2014 "13234"^^<xsd:decimal> ;
+	mid:YR2015 "13077"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/492> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Tonga" ;
+	mid:Country_Code "TON" ;
+	mid:YR2010 "42"^^<xsd:decimal> ;
+	mid:YR2011 "42"^^<xsd:decimal> ;
+	mid:YR2012 "41"^^<xsd:decimal> ;
+	mid:YR2013 "39"^^<xsd:decimal> ;
+	mid:YR2014 "38"^^<xsd:decimal> ;
+	mid:YR2015 "37"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/493> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Trinidad and Tobago" ;
+	mid:Country_Code "TTO" ;
+	mid:YR2010 "423"^^<xsd:decimal> ;
+	mid:YR2011 "407"^^<xsd:decimal> ;
+	mid:YR2012 "389"^^<xsd:decimal> ;
+	mid:YR2013 "375"^^<xsd:decimal> ;
+	mid:YR2014 "360"^^<xsd:decimal> ;
+	mid:YR2015 "344"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/494> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Tunisia" ;
+	mid:Country_Code "TUN" ;
+	mid:YR2010 "2769"^^<xsd:decimal> ;
+	mid:YR2011 "2730"^^<xsd:decimal> ;
+	mid:YR2012 "2709"^^<xsd:decimal> ;
+	mid:YR2013 "2693"^^<xsd:decimal> ;
+	mid:YR2014 "2641"^^<xsd:decimal> ;
+	mid:YR2015 "2546"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/495> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Turkey" ;
+	mid:Country_Code "TUR" ;
+	mid:YR2010 "21461"^^<xsd:decimal> ;
+	mid:YR2011 "20402"^^<xsd:decimal> ;
+	mid:YR2012 "19405"^^<xsd:decimal> ;
+	mid:YR2013 "18452"^^<xsd:decimal> ;
+	mid:YR2014 "17395"^^<xsd:decimal> ;
+	mid:YR2015 "16325"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/496> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Turkmenistan" ;
+	mid:Country_Code "TKM" ;
+	mid:YR2010 "5127"^^<xsd:decimal> ;
+	mid:YR2011 "4995"^^<xsd:decimal> ;
+	mid:YR2012 "4997"^^<xsd:decimal> ;
+	mid:YR2013 "5040"^^<xsd:decimal> ;
+	mid:YR2014 "5078"^^<xsd:decimal> ;
+	mid:YR2015 "5024"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/497> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Turks and Caicos Islands" ;
+	mid:Country_Code "TCA" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/498> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Tuvalu" ;
+	mid:Country_Code "TUV" ;
+	mid:YR2010 "5"^^<xsd:decimal> ;
+	mid:YR2011 "5"^^<xsd:decimal> ;
+	mid:YR2012 "5"^^<xsd:decimal> ;
+	mid:YR2013 "5"^^<xsd:decimal> ;
+	mid:YR2014 "5"^^<xsd:decimal> ;
+	mid:YR2015 "5"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/499> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Uganda" ;
+	mid:Country_Code "UGA" ;
+	mid:YR2010 "70749"^^<xsd:decimal> ;
+	mid:YR2011 "67489"^^<xsd:decimal> ;
+	mid:YR2012 "63162"^^<xsd:decimal> ;
+	mid:YR2013 "63189"^^<xsd:decimal> ;
+	mid:YR2014 "60673"^^<xsd:decimal> ;
+	mid:YR2015 "59856"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/500> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Ukraine" ;
+	mid:Country_Code "UKR" ;
+	mid:YR2010 "5815"^^<xsd:decimal> ;
+	mid:YR2011 "5414"^^<xsd:decimal> ;
+	mid:YR2012 "4857"^^<xsd:decimal> ;
+	mid:YR2013 "4246"^^<xsd:decimal> ;
+	mid:YR2014 "3700"^^<xsd:decimal> ;
+	mid:YR2015 "3331"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/501> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "United Arab Emirates" ;
+	mid:Country_Code "ARE" ;
+	mid:YR2010 "672"^^<xsd:decimal> ;
+	mid:YR2011 "688"^^<xsd:decimal> ;
+	mid:YR2012 "676"^^<xsd:decimal> ;
+	mid:YR2013 "644"^^<xsd:decimal> ;
+	mid:YR2014 "603"^^<xsd:decimal> ;
+	mid:YR2015 "571"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/502> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "United Kingdom" ;
+	mid:Country_Code "GBR" ;
+	mid:YR2010 "3917"^^<xsd:decimal> ;
+	mid:YR2011 "3704"^^<xsd:decimal> ;
+	mid:YR2012 "3498"^^<xsd:decimal> ;
+	mid:YR2013 "3173"^^<xsd:decimal> ;
+	mid:YR2014 "2880"^^<xsd:decimal> ;
+	mid:YR2015 "2655"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/503> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "United States" ;
+	mid:Country_Code "USA" ;
+	mid:YR2010 "25466"^^<xsd:decimal> ;
+	mid:YR2011 "24200"^^<xsd:decimal> ;
+	mid:YR2012 "23725"^^<xsd:decimal> ;
+	mid:YR2013 "22559"^^<xsd:decimal> ;
+	mid:YR2014 "21613"^^<xsd:decimal> ;
+	mid:YR2015 "21321"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/504> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Upper middle income" ;
+	mid:Country_Code "UMC" ;
+	mid:YR2010 "643134"^^<xsd:decimal> ;
+	mid:YR2011 "619110"^^<xsd:decimal> ;
+	mid:YR2012 "598538"^^<xsd:decimal> ;
+	mid:YR2013 "577983"^^<xsd:decimal> ;
+	mid:YR2014 "558394"^^<xsd:decimal> ;
+	mid:YR2015 "539329"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/505> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Uruguay" ;
+	mid:Country_Code "URY" ;
+	mid:YR2010 "529"^^<xsd:decimal> ;
+	mid:YR2011 "510"^^<xsd:decimal> ;
+	mid:YR2012 "492"^^<xsd:decimal> ;
+	mid:YR2013 "463"^^<xsd:decimal> ;
+	mid:YR2014 "441"^^<xsd:decimal> ;
+	mid:YR2015 "419"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/506> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Uzbekistan" ;
+	mid:Country_Code "UZB" ;
+	mid:YR2010 "26340"^^<xsd:decimal> ;
+	mid:YR2011 "26027"^^<xsd:decimal> ;
+	mid:YR2012 "25469"^^<xsd:decimal> ;
+	mid:YR2013 "24751"^^<xsd:decimal> ;
+	mid:YR2014 "23837"^^<xsd:decimal> ;
+	mid:YR2015 "22771"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/507> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Vanuatu" ;
+	mid:Country_Code "VUT" ;
+	mid:YR2010 "188"^^<xsd:decimal> ;
+	mid:YR2011 "187"^^<xsd:decimal> ;
+	mid:YR2012 "181"^^<xsd:decimal> ;
+	mid:YR2013 "172"^^<xsd:decimal> ;
+	mid:YR2014 "163"^^<xsd:decimal> ;
+	mid:YR2015 "157"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/508> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Venezuela, RB" ;
+	mid:Country_Code "VEN" ;
+	mid:YR2010 "8541"^^<xsd:decimal> ;
+	mid:YR2011 "8437"^^<xsd:decimal> ;
+	mid:YR2012 "8273"^^<xsd:decimal> ;
+	mid:YR2013 "8106"^^<xsd:decimal> ;
+	mid:YR2014 "7931"^^<xsd:decimal> ;
+	mid:YR2015 "7746"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/509> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Vietnam" ;
+	mid:Country_Code "VNM" ;
+	mid:YR2010 "30865"^^<xsd:decimal> ;
+	mid:YR2011 "30125"^^<xsd:decimal> ;
+	mid:YR2012 "29465"^^<xsd:decimal> ;
+	mid:YR2013 "28816"^^<xsd:decimal> ;
+	mid:YR2014 "28092"^^<xsd:decimal> ;
+	mid:YR2015 "27243"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/510> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Virgin Islands (U.S.)" ;
+	mid:Country_Code "VIR" ;
+	mid:YR2010 ".."^^<xsd:decimal> ;
+	mid:YR2011 ".."^^<xsd:decimal> ;
+	mid:YR2012 ".."^^<xsd:decimal> ;
+	mid:YR2013 ".."^^<xsd:decimal> ;
+	mid:YR2014 ".."^^<xsd:decimal> ;
+	mid:YR2015 ".."^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/511> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "West Bank and Gaza" ;
+	mid:Country_Code "WBG" ;
+	mid:YR2010 "2772"^^<xsd:decimal> ;
+	mid:YR2011 "2776"^^<xsd:decimal> ;
+	mid:YR2012 "2773"^^<xsd:decimal> ;
+	mid:YR2013 "2765"^^<xsd:decimal> ;
+	mid:YR2014 "2737"^^<xsd:decimal> ;
+	mid:YR2015 "2705"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/512> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "World" ;
+	mid:Country_Code "WLD" ;
+	mid:YR2010 "5113206"^^<xsd:decimal> ;
+	mid:YR2011 "4956287"^^<xsd:decimal> ;
+	mid:YR2012 "4814773"^^<xsd:decimal> ;
+	mid:YR2013 "4686178"^^<xsd:decimal> ;
+	mid:YR2014 "4561891"^^<xsd:decimal> ;
+	mid:YR2015 "4450352"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/513> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Yemen, Rep." ;
+	mid:Country_Code "YEM" ;
+	mid:YR2010 "33821"^^<xsd:decimal> ;
+	mid:YR2011 "32364"^^<xsd:decimal> ;
+	mid:YR2012 "31016"^^<xsd:decimal> ;
+	mid:YR2013 "29800"^^<xsd:decimal> ;
+	mid:YR2014 "28658"^^<xsd:decimal> ;
+	mid:YR2015 "27775"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/514> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Zambia" ;
+	mid:Country_Code "ZMB" ;
+	mid:YR2010 "30036"^^<xsd:decimal> ;
+	mid:YR2011 "29454"^^<xsd:decimal> ;
+	mid:YR2012 "28630"^^<xsd:decimal> ;
+	mid:YR2013 "27543"^^<xsd:decimal> ;
+	mid:YR2014 "26925"^^<xsd:decimal> ;
+	mid:YR2015 "26636"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/515> mid:Series_Name "Number of infant deaths" ;
+	mid:Country_Name "Zimbabwe" ;
+	mid:Country_Code "ZWE" ;
+	mid:YR2010 "27907"^^<xsd:decimal> ;
+	mid:YR2011 "27637"^^<xsd:decimal> ;
+	mid:YR2012 "25819"^^<xsd:decimal> ;
+	mid:YR2013 "26047"^^<xsd:decimal> ;
+	mid:YR2014 "25775"^^<xsd:decimal> ;
+	mid:YR2015 "25398"^^<xsd:decimal> .
+
+<http://127.0.0.1:3333/519> mid:Series_Name "Data from database: Health Nutrition and Population Statistics" .
+
+<http://127.0.0.1:3333/520> mid:Series_Name "Last Updated: 07/06/2016" .
